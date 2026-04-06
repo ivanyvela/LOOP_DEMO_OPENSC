@@ -1,0 +1,26 @@
+great! Now, we have been lucky that my homemade Jupyter LLM was able to do the task!  But you are still my best friend, so we are going to perform the following task. I am attaching three  spreadhseets: 
+
+
+-Jupyter Lithology contains all the lithology and color information on the right intervals, LOOPNr and ID
+
+-Master_Lithology_draft has the two first examples from each LOOPNr for you to take off from. NEvermind the "..." it's just for indicating that information is missing 
+
+-Color_equi_prob: a lookup table for when doing the further analysis down the road for the color
+
+-Lithology_equi_prob:  a lookup table for when doing the further analysis down the road for the lithology
+
+
+With this set, I am asking you to:
+
+
+-To extract all the information represented in Master_Lithology_draft from Jupyter_Lithology.csv into a new Master_Lithology.csv
+
+-When doing it, remember to chagne the IDs in the DEMO LOOPNr to D1, D1a instead of 1, 1a. 
+
+-In Jupyter_Lithology, are there any colors, or Munsell codes corresponding to a single wording of a color that are not included in Color_equi_prob ? If yes, you may include them, please. 
+
+-In Jupyter_Lithology, are there any lithologies that are not included in Lithology_equi_prob? If yes, you may include them, please. 
+
+
+
+Naturally, it is important that we address all the points. Let me know if we need to break the task in small chunks.

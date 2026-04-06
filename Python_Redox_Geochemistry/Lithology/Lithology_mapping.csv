@@ -1,0 +1,18 @@
+Lithology,Lithology_DA,Lithology_simple_DA,Lithology_EN,Lithology_simple_EN,Feature_factor,Factor
+ml,moræneler,LER,moraine clay,CLAY,fine-grained,0.2
+ms,morænesand,SAND,moraine sand,SAND,coarse-grained,1
+mi,morænesilt,SILT,moraine silt,SILT,fine-grained,0.2
+mg,morænegrus,SAND OG GRUS,moraine gravel,SAND AND GRAVEL,coarse-grained,1
+m,muld,MULD,topsoil/humus,HUMUS,non-aquifer,Ignore thickness
+ds,smeltevandssand,SAND,meltwater sand,SAND,coarse-grained,1
+di,smeltevandssilt,SILT,meltwater silt,SILT,fine-grained,0.2
+dg,smeltevandsgrus,SILT,meltwater gravel,SILT,coarse-grained,1
+dl,smeltevandsler,LER,meltwater clay,CLAY,fine-grained,0.2
+fp,ferskvandsgytje,GYTJE,freshwater gyttja,GYTTJA,organic-rich,0 (unless P_ox=1)
+s,sand,SAND,sand,SAND,coarse-grained,1
+x,ukendt lag,INGEN PRÃ˜VE,ukendt lag,NO SAMPLE,unknown layer,Ignore thickness
+ft,ferskvandstørv,TORV,peat,PEAT,organic,0
+dv,vekslende lag,VEKSLENDE,alternating layers,MIXED,fine-grained,0.2
+fi,ferskvandssilt,SILT,freshwater silt,SILT,fine-grained,0.2
+gi,glimmersilt,SILT,mica silt,SILT,fine-grained,0.2
+gs,glimmersand,SAND,mica sand,SAND,coarse-grained,1

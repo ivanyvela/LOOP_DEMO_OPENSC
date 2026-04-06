@@ -1,0 +1,3682 @@
+{
+  "DEMO_D1": [
+    {
+      "From": 0.0,
+      "To": 0.21,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.21,
+      "To": 0.55,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.55,
+      "To": 1.4,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.4,
+      "To": 2.0,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.0,
+      "To": 2.5,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.5,
+      "To": 3.2,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 3.2,
+      "To": 3.6,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.6,
+      "To": 4.1,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 4.1,
+      "To": 4.8,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 4.8,
+      "To": 5.3,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 5.3,
+      "To": 6.1,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 6.1,
+      "To": 7.3,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 7.3,
+      "To": 8.4,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 8.4,
+      "To": 9.76,
+      "Lithology": "ds",
+      "Color": "lys olivenbrun"
+    }
+  ],
+  "DEMO_D1a": [
+    {
+      "From": 0.0,
+      "To": 0.55,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.55,
+      "To": 1.8,
+      "Lithology": "ml",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 1.8,
+      "To": 2.7,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 2.7,
+      "To": 3.3,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.3,
+      "To": 4.3,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 4.3,
+      "To": 5.1,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 5.1,
+      "To": 5.7,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 5.7,
+      "To": 6.8,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 6.8,
+      "To": 7.7,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 7.7,
+      "To": 8.2,
+      "Lithology": "ds",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 8.2,
+      "To": 9.9,
+      "Lithology": "ds",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 9.9,
+      "To": 11.3,
+      "Lithology": "dg",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 11.3,
+      "To": 13.0,
+      "Lithology": "dg",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 13.0,
+      "To": 13.9,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 13.9,
+      "To": 14.64,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    }
+  ],
+  "DEMO_D4": [
+    {
+      "From": 0.0,
+      "To": 0.4,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.4,
+      "To": 0.6,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.6,
+      "To": 1.0,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 1.0,
+      "To": 1.22,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.22,
+      "To": 1.7,
+      "Lithology": "dg",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.7,
+      "To": 2.6,
+      "Lithology": "mi",
+      "Color": "brun"
+    },
+    {
+      "From": 2.6,
+      "To": 3.3,
+      "Lithology": "mi",
+      "Color": "brun"
+    },
+    {
+      "From": 3.3,
+      "To": 4.0,
+      "Lithology": "mi",
+      "Color": "brun"
+    },
+    {
+      "From": 4.0,
+      "To": 4.8,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 4.8,
+      "To": 5.1,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 5.1,
+      "To": 6.0,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 6.0,
+      "To": 6.7,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 6.7,
+      "To": 7.0,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 7.0,
+      "To": 8.54,
+      "Lithology": "ms",
+      "Color": "grå"
+    }
+  ],
+  "DEMO_D4a": [
+    {
+      "From": 0.0,
+      "To": 0.6,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.6,
+      "To": 0.9,
+      "Lithology": "ms",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.9,
+      "To": 1.8,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.8,
+      "To": 3.0,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 3.0,
+      "To": 4.0,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 4.0,
+      "To": 5.2,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 5.2,
+      "To": 6.2,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 6.2,
+      "To": 7.3,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 7.3,
+      "To": 8.6,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 8.6,
+      "To": 9.76,
+      "Lithology": "ml",
+      "Color": "grå"
+    }
+  ],
+  "DEMO_D5": [
+    {
+      "From": 0.0,
+      "To": 0.4,
+      "Lithology": "m",
+      "Color": "sort"
+    },
+    {
+      "From": 0.4,
+      "To": 0.6,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.6,
+      "To": 1.4,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 1.4,
+      "To": 3.0,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 3.0,
+      "To": 4.7,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 4.7,
+      "To": 5.4,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 5.4,
+      "To": 5.9,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 5.9,
+      "To": 6.5,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 6.5,
+      "To": 7.2,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 7.2,
+      "To": 7.6,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 7.6,
+      "To": 8.3,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 8.3,
+      "To": 8.8,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 8.8,
+      "To": 9.4,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 9.4,
+      "To": 10.1,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 10.1,
+      "To": 10.7,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 10.7,
+      "To": 11.5,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 11.5,
+      "To": 12.1,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 12.1,
+      "To": 12.4,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 12.4,
+      "To": 12.9,
+      "Lithology": "ds",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 12.9,
+      "To": 13.7,
+      "Lithology": "ds",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 13.7,
+      "To": 14.8,
+      "Lithology": "ds",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 14.8,
+      "To": 15.86,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    }
+  ],
+  "DEMO_D6": [
+    {
+      "From": 0.0,
+      "To": 0.8,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.8,
+      "To": 1.8,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.8,
+      "To": 3.3,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.3,
+      "To": 4.0,
+      "Lithology": "dg",
+      "Color": NaN
+    },
+    {
+      "From": 4.0,
+      "To": 5.2,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 5.2,
+      "To": 6.4,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 6.4,
+      "To": 7.5,
+      "Lithology": "ds",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 7.5,
+      "To": 8.4,
+      "Lithology": "ds",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 8.4,
+      "To": 8.78,
+      "Lithology": "ds",
+      "Color": "olivengrå"
+    },
+    {
+      "From": 8.78,
+      "To": 9.76,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 9.76,
+      "To": 13.2,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    }
+  ],
+  "DEMO_D7": [
+    {
+      "From": 0.0,
+      "To": 0.6,
+      "Lithology": "m",
+      "Color": "mørk brun"
+    },
+    {
+      "From": 0.6,
+      "To": 1.0,
+      "Lithology": "ms",
+      "Color": "brun"
+    },
+    {
+      "From": 1.0,
+      "To": 1.3,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 1.3,
+      "To": 1.65,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 1.65,
+      "To": 1.82,
+      "Lithology": "z",
+      "Color": NaN
+    },
+    {
+      "From": 1.82,
+      "To": 3.3,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.3,
+      "To": 4.1,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 4.1,
+      "To": 5.2,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 5.2,
+      "To": 6.3,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 6.3,
+      "To": 7.4,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 7.4,
+      "To": 8.5,
+      "Lithology": "ds",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 8.5,
+      "To": 9.7,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 9.7,
+      "To": 11.0,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 11.0,
+      "To": 12.2,
+      "Lithology": "ds",
+      "Color": "brun"
+    }
+  ],
+  "LOOP2_P1": [
+    {
+      "From": 0.0,
+      "To": 0.77,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 0.77,
+      "To": 0.9,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 0.9,
+      "To": 1.2,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.2,
+      "To": 1.9,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.9,
+      "To": 2.6,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.6,
+      "To": 3.1,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.1,
+      "To": 3.7,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 3.7,
+      "To": 4.4,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 4.4,
+      "To": 5.5,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 5.5,
+      "To": 6.1,
+      "Lithology": "ms",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 6.1,
+      "To": 6.6,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 6.6,
+      "To": 7.2,
+      "Lithology": "ms",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 7.2,
+      "To": 7.35,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 7.35,
+      "To": 7.5,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 7.5,
+      "To": 8.1,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 8.1,
+      "To": 9.4,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 9.4,
+      "To": 10.2,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 10.2,
+      "To": 10.6,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 10.6,
+      "To": 10.8,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 10.8,
+      "To": 11.8,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 11.8,
+      "To": 13.13,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    }
+  ],
+  "LOOP2_P2": [
+    {
+      "From": 0.0,
+      "To": 0.54,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 0.54,
+      "To": 0.8,
+      "Lithology": "ms",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 0.8,
+      "To": 1.4,
+      "Lithology": "ms",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.4,
+      "To": 1.7,
+      "Lithology": "ml",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 1.7,
+      "To": 2.2,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 2.2,
+      "To": 2.8,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 2.8,
+      "To": 3.4,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 3.4,
+      "To": 4.3,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 4.3,
+      "To": 5.2,
+      "Lithology": "ms",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 5.2,
+      "To": 5.7,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 5.7,
+      "To": 6.5,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 6.5,
+      "To": 7.0,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 7.0,
+      "To": 7.55,
+      "Lithology": "ms",
+      "Color": "grå"
+    }
+  ],
+  "LOOP2_P2A": [
+    {
+      "From": 0.0,
+      "To": 0.9,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 0.9,
+      "To": 1.1,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.1,
+      "To": 1.76,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 1.76,
+      "To": 2.44,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 2.44,
+      "To": 3.4,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 3.4,
+      "To": 4.1,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 4.1,
+      "To": 4.84,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 4.84,
+      "To": 4.88,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 4.88,
+      "To": 5.7,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 5.7,
+      "To": 6.69,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 6.69,
+      "To": 6.89,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 6.89,
+      "To": 8.1,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 8.1,
+      "To": 9.2,
+      "Lithology": "ms",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 9.2,
+      "To": 9.53,
+      "Lithology": "ms",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 9.53,
+      "To": 14.0,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 14.0,
+      "To": 14.83,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    }
+  ],
+  "LOOP2_P3": [
+    {
+      "From": 0.0,
+      "To": 0.92,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 0.92,
+      "To": 1.1,
+      "Lithology": "ds",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 1.1,
+      "To": 1.5,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 1.5,
+      "To": 2.2,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.2,
+      "To": 2.8,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 2.8,
+      "To": 3.8,
+      "Lithology": "ds",
+      "Color": "lys grå"
+    },
+    {
+      "From": 3.8,
+      "To": 4.7,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 4.7,
+      "To": 4.9,
+      "Lithology": "mi",
+      "Color": "grå"
+    },
+    {
+      "From": 4.9,
+      "To": 5.2,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 5.2,
+      "To": 5.6,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 5.6,
+      "To": 5.9,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 5.9,
+      "To": 6.1,
+      "Lithology": "ms",
+      "Color": "grå"
+    }
+  ],
+  "LOOP2_P4": [
+    {
+      "From": 0.0,
+      "To": 0.39,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 0.39,
+      "To": 0.6,
+      "Lithology": "m",
+      "Color": "sort"
+    },
+    {
+      "From": 0.6,
+      "To": 1.0,
+      "Lithology": "ds",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 1.0,
+      "To": 2.5,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.5,
+      "To": 3.0,
+      "Lithology": "di",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.0,
+      "To": 3.5,
+      "Lithology": "di",
+      "Color": "brun"
+    },
+    {
+      "From": 3.5,
+      "To": 4.1,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 4.1,
+      "To": 4.7,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 4.7,
+      "To": 5.3,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 5.3,
+      "To": 6.2,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 6.2,
+      "To": 7.2,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 7.2,
+      "To": 8.1,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 8.1,
+      "To": 8.5,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 8.5,
+      "To": 9.2,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 9.2,
+      "To": 9.9,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 9.9,
+      "To": 10.6,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 10.6,
+      "To": 10.98,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 10.98,
+      "To": 15.23,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 15.23,
+      "To": 16.2,
+      "Lithology": "ms",
+      "Color": "brun"
+    },
+    {
+      "From": 16.2,
+      "To": 17.7,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 17.7,
+      "To": 18.3,
+      "Lithology": "ml",
+      "Color": "grå"
+    }
+  ],
+  "LOOP2_P5": [
+    {
+      "From": 0.0,
+      "To": 0.49,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 0.49,
+      "To": 0.6,
+      "Lithology": "ft",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.6,
+      "To": 1.1,
+      "Lithology": "dg",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 1.1,
+      "To": 2.1,
+      "Lithology": "dg",
+      "Color": "brun"
+    },
+    {
+      "From": 2.1,
+      "To": 3.1,
+      "Lithology": "dv",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 3.1,
+      "To": 3.5,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.5,
+      "To": 4.0,
+      "Lithology": "mi",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 4.0,
+      "To": 4.5,
+      "Lithology": "mi",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 4.5,
+      "To": 4.9,
+      "Lithology": "ml",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 4.9,
+      "To": 5.2,
+      "Lithology": "mi",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 5.2,
+      "To": 5.7,
+      "Lithology": "mi",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 5.7,
+      "To": 6.2,
+      "Lithology": "ml",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 6.2,
+      "To": 6.37,
+      "Lithology": "ds",
+      "Color": "brun"
+    }
+  ],
+  "LOOP2_P6": [
+    {
+      "From": 0.0,
+      "To": 0.65,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 0.65,
+      "To": 1.0,
+      "Lithology": "ft",
+      "Color": "sort"
+    },
+    {
+      "From": 1.0,
+      "To": 1.4,
+      "Lithology": "ft",
+      "Color": "sort"
+    },
+    {
+      "From": 1.4,
+      "To": 1.7,
+      "Lithology": "ft",
+      "Color": "sort"
+    },
+    {
+      "From": 1.7,
+      "To": 2.0,
+      "Lithology": "fp",
+      "Color": "grå"
+    },
+    {
+      "From": 2.0,
+      "To": 2.8,
+      "Lithology": "fp",
+      "Color": "mørk olivengrå"
+    },
+    {
+      "From": 2.8,
+      "To": 3.5,
+      "Lithology": "fp",
+      "Color": "mørk olivengrå"
+    },
+    {
+      "From": 3.5,
+      "To": 3.7,
+      "Lithology": "fp",
+      "Color": "olivengrå"
+    },
+    {
+      "From": 3.7,
+      "To": 4.2,
+      "Lithology": "fp",
+      "Color": "grå"
+    },
+    {
+      "From": 4.2,
+      "To": 5.1,
+      "Lithology": "fi",
+      "Color": "grå"
+    },
+    {
+      "From": 5.1,
+      "To": 5.9,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 5.9,
+      "To": 6.4,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 6.4,
+      "To": 6.9,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 6.9,
+      "To": 7.5,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 7.5,
+      "To": 8.2,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 8.2,
+      "To": 8.8,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 8.8,
+      "To": 9.4,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 9.4,
+      "To": 9.76,
+      "Lithology": "ds",
+      "Color": "grå"
+    }
+  ],
+  "LOOP2_P7": [
+    {
+      "From": 0.0,
+      "To": 0.84,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 0.84,
+      "To": 1.0,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 1.0,
+      "To": 1.22,
+      "Lithology": "ds",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.22,
+      "To": 1.5,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 1.5,
+      "To": 2.1,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 2.1,
+      "To": 2.7,
+      "Lithology": "ms",
+      "Color": "brun"
+    },
+    {
+      "From": 2.7,
+      "To": 3.3,
+      "Lithology": "ms",
+      "Color": "brun"
+    },
+    {
+      "From": 3.3,
+      "To": 4.0,
+      "Lithology": "ms",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 4.0,
+      "To": 4.7,
+      "Lithology": "ms",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 4.7,
+      "To": 5.2,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 5.2,
+      "To": 5.48,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    }
+  ],
+  "LOOP2_P8": [
+    {
+      "From": 0.0,
+      "To": 0.49,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 0.49,
+      "To": 0.65,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 0.65,
+      "To": 1.5,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 1.5,
+      "To": 3.0,
+      "Lithology": "ms",
+      "Color": "brun"
+    },
+    {
+      "From": 3.0,
+      "To": 3.9,
+      "Lithology": "ms",
+      "Color": "brun"
+    },
+    {
+      "From": 3.9,
+      "To": 4.5,
+      "Lithology": "ms",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 4.5,
+      "To": 5.1,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 5.1,
+      "To": 5.38,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    }
+  ],
+  "LOOP2_P9": [
+    {
+      "From": 0.0,
+      "To": 0.8,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 0.8,
+      "To": 1.0,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 1.0,
+      "To": 1.3,
+      "Lithology": "ms",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 1.3,
+      "To": 2.0,
+      "Lithology": "ms",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 2.0,
+      "To": 2.8,
+      "Lithology": "ms",
+      "Color": "lys brunsort"
+    },
+    {
+      "From": 2.8,
+      "To": 3.6,
+      "Lithology": "ms",
+      "Color": "brun"
+    },
+    {
+      "From": 3.6,
+      "To": 3.66,
+      "Lithology": "di",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 3.66,
+      "To": 3.97,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 3.97,
+      "To": 5.1,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 5.1,
+      "To": 5.7,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 5.7,
+      "To": 6.5,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 6.5,
+      "To": 7.0,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 7.0,
+      "To": 7.6,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 7.6,
+      "To": 8.0,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 8.0,
+      "To": 8.5,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 8.5,
+      "To": 9.2,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 9.2,
+      "To": 9.8,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 9.8,
+      "To": 10.2,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 10.2,
+      "To": 10.7,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 10.7,
+      "To": 11.1,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 11.1,
+      "To": 11.25,
+      "Lithology": "ml",
+      "Color": "lys brungrå"
+    }
+  ],
+  "LOOP3_P1": [
+    {
+      "From": 0.0,
+      "To": 0.41,
+      "Lithology": "m",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 0.41,
+      "To": 0.63,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 0.63,
+      "To": 1.5,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.5,
+      "To": 2.1,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 2.1,
+      "To": 2.6,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.6,
+      "To": 3.1,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.1,
+      "To": 3.8,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 3.8,
+      "To": 4.4,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 4.4,
+      "To": 5.2,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 5.2,
+      "To": 5.7,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 5.7,
+      "To": 6.5,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 6.5,
+      "To": 7.4,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 7.4,
+      "To": 8.0,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 8.0,
+      "To": 8.44,
+      "Lithology": "ds",
+      "Color": "mørk gråbrun"
+    }
+  ],
+  "LOOP3_P2": [
+    {
+      "From": 0.0,
+      "To": 0.37,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.37,
+      "To": 0.68,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 0.68,
+      "To": 1.4,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 1.4,
+      "To": 1.8,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.8,
+      "To": 2.2,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.2,
+      "To": 2.7,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.7,
+      "To": 3.2,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.2,
+      "To": 3.9,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.9,
+      "To": 4.7,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 4.7,
+      "To": 5.2,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 5.2,
+      "To": 5.6,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 5.6,
+      "To": 6.0,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 6.0,
+      "To": 6.4,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 6.4,
+      "To": 6.9,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 6.9,
+      "To": 7.3,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 7.3,
+      "To": 7.7,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 7.7,
+      "To": 8.1,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 8.1,
+      "To": 8.5,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 8.5,
+      "To": 8.9,
+      "Lithology": "ml",
+      "Color": "sortbrun"
+    },
+    {
+      "From": 8.9,
+      "To": 9.3,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 9.3,
+      "To": 9.7,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 9.7,
+      "To": 10.2,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 10.2,
+      "To": 10.6,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 10.6,
+      "To": 10.9,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 10.9,
+      "To": 11.2,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 11.2,
+      "To": 11.6,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 11.6,
+      "To": 12.2,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    }
+  ],
+  "LOOP3_P3": [
+    {
+      "From": 0.0,
+      "To": 0.33,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.33,
+      "To": 0.8,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 0.8,
+      "To": 1.3,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.3,
+      "To": 1.8,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 1.8,
+      "To": 2.3,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 2.3,
+      "To": 2.9,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 2.9,
+      "To": 3.6,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 3.6,
+      "To": 3.9,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 3.9,
+      "To": 4.3,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 4.3,
+      "To": 4.9,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 4.9,
+      "To": 5.6,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 5.6,
+      "To": 6.1,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 6.1,
+      "To": 7.32,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 7.32,
+      "To": 7.6,
+      "Lithology": "dl",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 7.6,
+      "To": 8.2,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 8.2,
+      "To": 8.7,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 8.7,
+      "To": 9.4,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 9.4,
+      "To": 9.9,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 9.9,
+      "To": 10.34,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 10.34,
+      "To": 10.8,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 10.8,
+      "To": 11.3,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 11.3,
+      "To": 11.9,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 11.9,
+      "To": 12.5,
+      "Lithology": "di",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 12.5,
+      "To": 13.1,
+      "Lithology": "dg",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 13.1,
+      "To": 13.8,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 13.8,
+      "To": 14.4,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 14.4,
+      "To": 15.0,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 15.0,
+      "To": 15.7,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 15.7,
+      "To": 16.1,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 16.1,
+      "To": 16.8,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 16.8,
+      "To": 17.4,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 17.4,
+      "To": 18.0,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 18.0,
+      "To": 18.3,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    }
+  ],
+  "LOOP3_P3A": [
+    {
+      "From": 0.0,
+      "To": 0.14,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.14,
+      "To": 0.45,
+      "Lithology": "ms",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 0.45,
+      "To": 0.92,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 0.92,
+      "To": 1.5,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.5,
+      "To": 2.0,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 2.0,
+      "To": 2.9,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 2.9,
+      "To": 3.8,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 3.8,
+      "To": 4.2,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 4.2,
+      "To": 5.1,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 5.1,
+      "To": 6.5,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 6.5,
+      "To": 7.11,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 7.11,
+      "To": 18.3,
+      "Lithology": "x",
+      "Color": NaN
+    }
+  ],
+  "LOOP3_P4": [
+    {
+      "From": 0.0,
+      "To": 0.35,
+      "Lithology": "m",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 0.35,
+      "To": 0.8,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 0.8,
+      "To": 1.22,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.22,
+      "To": 1.4,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.4,
+      "To": 1.8,
+      "Lithology": "dl",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.8,
+      "To": 2.3,
+      "Lithology": "dl",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 2.3,
+      "To": 2.7,
+      "Lithology": "di",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 2.7,
+      "To": 3.3,
+      "Lithology": "di",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 3.3,
+      "To": 3.8,
+      "Lithology": "di",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 3.8,
+      "To": 4.0,
+      "Lithology": "di",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 4.0,
+      "To": 4.4,
+      "Lithology": "di",
+      "Color": "brun"
+    },
+    {
+      "From": 4.4,
+      "To": 4.9,
+      "Lithology": "di",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 4.9,
+      "To": 5.3,
+      "Lithology": "di",
+      "Color": "grå"
+    },
+    {
+      "From": 5.3,
+      "To": 6.0,
+      "Lithology": "di",
+      "Color": "grå"
+    },
+    {
+      "From": 6.0,
+      "To": 6.6,
+      "Lithology": "dl",
+      "Color": "grå"
+    },
+    {
+      "From": 6.6,
+      "To": 7.0,
+      "Lithology": "dl",
+      "Color": "grå"
+    },
+    {
+      "From": 7.0,
+      "To": 7.32,
+      "Lithology": "dl",
+      "Color": "grå"
+    }
+  ],
+  "LOOP3_P5": [
+    {
+      "From": 0.0,
+      "To": 0.52,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.52,
+      "To": 1.0,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 1.0,
+      "To": 1.22,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.22,
+      "To": 2.07,
+      "Lithology": "dg",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 2.07,
+      "To": 2.9,
+      "Lithology": "ds",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 2.9,
+      "To": 3.6,
+      "Lithology": "dg",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 3.6,
+      "To": 3.66,
+      "Lithology": "dg",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 3.66,
+      "To": 4.31,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 4.31,
+      "To": 5.6,
+      "Lithology": "ds",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 5.6,
+      "To": 6.2,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 6.2,
+      "To": 6.8,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 6.8,
+      "To": 7.5,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 7.5,
+      "To": 7.8,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 7.8,
+      "To": 8.2,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 8.2,
+      "To": 8.7,
+      "Lithology": "ds",
+      "Color": "sortgrå"
+    },
+    {
+      "From": 8.7,
+      "To": 9.1,
+      "Lithology": "ms",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 9.1,
+      "To": 9.5,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 9.5,
+      "To": 9.9,
+      "Lithology": "ms",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 9.9,
+      "To": 10.2,
+      "Lithology": "dl",
+      "Color": "grå"
+    },
+    {
+      "From": 10.2,
+      "To": 10.7,
+      "Lithology": "dl",
+      "Color": "grå"
+    },
+    {
+      "From": 10.7,
+      "To": 10.98,
+      "Lithology": "dl",
+      "Color": "grå"
+    }
+  ],
+  "LOOP3_P6": [
+    {
+      "From": 0.0,
+      "To": 0.76,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.76,
+      "To": 1.2,
+      "Lithology": "fp",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 1.2,
+      "To": 2.0,
+      "Lithology": "ms",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 2.0,
+      "To": 2.8,
+      "Lithology": "ds",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 2.8,
+      "To": 3.5,
+      "Lithology": "di",
+      "Color": "olivenbrun"
+    },
+    {
+      "From": 3.5,
+      "To": 4.5,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 4.5,
+      "To": 5.0,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 5.0,
+      "To": 5.4,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 5.4,
+      "To": 6.1,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    }
+  ],
+  "LOOP3_P8": [
+    {
+      "From": 0.0,
+      "To": 0.47,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.47,
+      "To": 0.85,
+      "Lithology": "ms",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 0.85,
+      "To": 1.22,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.22,
+      "To": 1.7,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.7,
+      "To": 2.3,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.3,
+      "To": 3.1,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.1,
+      "To": 3.5,
+      "Lithology": "ms",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.5,
+      "To": 4.1,
+      "Lithology": "ms",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 4.1,
+      "To": 5.0,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 5.0,
+      "To": 5.6,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 5.6,
+      "To": 6.2,
+      "Lithology": "di",
+      "Color": "brun"
+    },
+    {
+      "From": 6.2,
+      "To": 6.8,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 6.8,
+      "To": 6.99,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 6.99,
+      "To": 8.13,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 8.13,
+      "To": 9.76,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 9.76,
+      "To": 10.22,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 10.22,
+      "To": 11.32,
+      "Lithology": "gs",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 11.32,
+      "To": 12.2,
+      "Lithology": "gi",
+      "Color": "sortgrå"
+    }
+  ],
+  "LOOP4_GeoW-2": [
+    {
+      "From": 0.0,
+      "To": 0.49,
+      "Lithology": "m",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 0.49,
+      "To": 0.91,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.91,
+      "To": 1.5,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.5,
+      "To": 2.2,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 2.2,
+      "To": 2.5,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 2.5,
+      "To": 2.8,
+      "Lithology": "mi",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 2.8,
+      "To": 3.4,
+      "Lithology": "di",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 3.4,
+      "To": 3.8,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.8,
+      "To": 4.2,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 4.2,
+      "To": 4.6,
+      "Lithology": "ml",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 4.6,
+      "To": 5.1,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 5.1,
+      "To": 5.5,
+      "Lithology": "ml",
+      "Color": "mørk grøngrå"
+    },
+    {
+      "From": 5.5,
+      "To": 5.9,
+      "Lithology": "ml",
+      "Color": "mørk grøngrå"
+    },
+    {
+      "From": 5.9,
+      "To": 6.1,
+      "Lithology": "ml",
+      "Color": "mørk grøngrå"
+    }
+  ],
+  "LOOP4_IS-1": [
+    {
+      "From": 0.0,
+      "To": 0.3,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.3,
+      "To": 0.7,
+      "Lithology": "ml",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.7,
+      "To": 1.0,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.0,
+      "To": 1.4,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.4,
+      "To": 1.8,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.8,
+      "To": 2.3,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 2.3,
+      "To": 2.9,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.9,
+      "To": 3.5,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 3.5,
+      "To": 3.7,
+      "Lithology": "s",
+      "Color": "lys grågul"
+    },
+    {
+      "From": 3.7,
+      "To": 4.2,
+      "Lithology": "s",
+      "Color": "lys grågul"
+    },
+    {
+      "From": 4.2,
+      "To": 4.7,
+      "Lithology": "s",
+      "Color": "lys grågul"
+    },
+    {
+      "From": 4.7,
+      "To": 5.4,
+      "Lithology": "s",
+      "Color": "lys gulgrå"
+    },
+    {
+      "From": 5.4,
+      "To": 6.0,
+      "Lithology": "s",
+      "Color": "lys gulgrå"
+    },
+    {
+      "From": 6.0,
+      "To": 6.1,
+      "Lithology": "s",
+      "Color": "lys gulgrå"
+    }
+  ],
+  "LOOP4_IS-2": [
+    {
+      "From": 0.0,
+      "To": 0.3,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.3,
+      "To": 1.7,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.7,
+      "To": 2.3,
+      "Lithology": "ml",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 2.3,
+      "To": 2.8,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.8,
+      "To": 3.4,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 3.4,
+      "To": 4.2,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 4.2,
+      "To": 4.3,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 4.3,
+      "To": 5.7,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 5.7,
+      "To": 6.3,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 6.3,
+      "To": 6.7,
+      "Lithology": "s",
+      "Color": "lys gulgrå"
+    },
+    {
+      "From": 6.7,
+      "To": 7.3,
+      "Lithology": "s",
+      "Color": "lys gulgrå"
+    },
+    {
+      "From": 7.3,
+      "To": 8.0,
+      "Lithology": "s",
+      "Color": "lys gulgrå"
+    },
+    {
+      "From": 8.0,
+      "To": 8.34,
+      "Lithology": "s",
+      "Color": "lys gulgrå"
+    }
+  ],
+  "LOOP4_MS-1": [
+    {
+      "From": 0.0,
+      "To": 0.5,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.5,
+      "To": 1.1,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 1.1,
+      "To": 1.7,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 1.7,
+      "To": 2.3,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 2.3,
+      "To": 2.8,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 2.8,
+      "To": 3.4,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.4,
+      "To": 4.0,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 4.0,
+      "To": 4.6,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 4.6,
+      "To": 5.3,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 5.3,
+      "To": 6.4,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 6.4,
+      "To": 7.5,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 7.5,
+      "To": 7.9,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 7.9,
+      "To": 8.3,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 8.3,
+      "To": 9.3,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 9.3,
+      "To": 11.1,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 11.1,
+      "To": 11.8,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 11.8,
+      "To": 12.2,
+      "Lithology": "di",
+      "Color": "grå"
+    }
+  ],
+  "LOOP4_MS-2": [
+    {
+      "From": 0.0,
+      "To": 0.34,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.34,
+      "To": 0.62,
+      "Lithology": "dl",
+      "Color": "brun"
+    },
+    {
+      "From": 0.62,
+      "To": 1.0,
+      "Lithology": "dl",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.0,
+      "To": 1.7,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.7,
+      "To": 2.3,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.3,
+      "To": 2.8,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 2.8,
+      "To": 3.36,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 3.36,
+      "To": 3.5,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 3.5,
+      "To": 3.8,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 3.8,
+      "To": 4.0,
+      "Lithology": "ds",
+      "Color": "lys brunsort"
+    },
+    {
+      "From": 4.0,
+      "To": 4.5,
+      "Lithology": "ds",
+      "Color": "lys brunsort"
+    },
+    {
+      "From": 4.5,
+      "To": 5.4,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 5.4,
+      "To": 6.0,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 6.0,
+      "To": 6.4,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 6.4,
+      "To": 6.67,
+      "Lithology": "dg",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 6.67,
+      "To": 7.14,
+      "Lithology": "dg",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 7.14,
+      "To": 7.4,
+      "Lithology": "di",
+      "Color": "grå"
+    },
+    {
+      "From": 7.4,
+      "To": 7.6,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 7.6,
+      "To": 8.1,
+      "Lithology": "ml",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 8.1,
+      "To": 8.6,
+      "Lithology": "ds",
+      "Color": "lys brunsort"
+    },
+    {
+      "From": 8.6,
+      "To": 8.8,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 8.8,
+      "To": 9.2,
+      "Lithology": "di",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 9.2,
+      "To": 9.5,
+      "Lithology": "ds",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 9.5,
+      "To": 9.6,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 9.6,
+      "To": 10.1,
+      "Lithology": "ds",
+      "Color": "lys brunsort"
+    },
+    {
+      "From": 10.1,
+      "To": 10.7,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 10.7,
+      "To": 10.98,
+      "Lithology": "ds",
+      "Color": "grå"
+    }
+  ],
+  "LOOP4_TL-1": [
+    {
+      "From": 0.0,
+      "To": 0.43,
+      "Lithology": "m",
+      "Color": "sortgrå"
+    },
+    {
+      "From": 0.43,
+      "To": 0.65,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 0.65,
+      "To": 1.6,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 1.6,
+      "To": 2.2,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 2.2,
+      "To": 2.8,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 2.8,
+      "To": 3.4,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 3.4,
+      "To": 4.0,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 4.0,
+      "To": 4.6,
+      "Lithology": "ml",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 4.6,
+      "To": 5.0,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 5.0,
+      "To": 5.6,
+      "Lithology": "mg",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 5.6,
+      "To": 6.7,
+      "Lithology": "ds",
+      "Color": "lys olivenbrun"
+    },
+    {
+      "From": 6.7,
+      "To": 7.9,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 7.9,
+      "To": 9.1,
+      "Lithology": "di",
+      "Color": "grå"
+    },
+    {
+      "From": 9.1,
+      "To": 9.76,
+      "Lithology": "dg",
+      "Color": "grå"
+    }
+  ],
+  "LOOP4_TL-2": [
+    {
+      "From": 0.0,
+      "To": 0.49,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.49,
+      "To": 0.79,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 0.79,
+      "To": 0.95,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 0.95,
+      "To": 1.22,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 1.22,
+      "To": 1.95,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 1.95,
+      "To": 2.44,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 2.44,
+      "To": 2.82,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 2.82,
+      "To": 3.17,
+      "Lithology": "ml",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 3.17,
+      "To": 3.66,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 3.66,
+      "To": 3.74,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 3.74,
+      "To": 4.39,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 4.39,
+      "To": 4.88,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 4.88,
+      "To": 5.01,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 5.01,
+      "To": 5.61,
+      "Lithology": "ml",
+      "Color": "grå"
+    },
+    {
+      "From": 5.61,
+      "To": 6.1,
+      "Lithology": "ml",
+      "Color": "grå"
+    }
+  ],
+  "LOOP6_P1": [
+    {
+      "From": 0.0,
+      "To": 0.32,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.32,
+      "To": 0.76,
+      "Lithology": "dg",
+      "Color": "brun"
+    },
+    {
+      "From": 0.76,
+      "To": 1.5,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 1.5,
+      "To": 2.44,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 2.44,
+      "To": 4.88,
+      "Lithology": "x",
+      "Color": NaN
+    },
+    {
+      "From": 4.88,
+      "To": 6.1,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    }
+  ],
+  "LOOP6_P2": [
+    {
+      "From": 0.0,
+      "To": 0.68,
+      "Lithology": "m",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 0.68,
+      "To": 1.5,
+      "Lithology": "ds",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.5,
+      "To": 2.6,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 2.6,
+      "To": 3.8,
+      "Lithology": "ds",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 3.8,
+      "To": 4.88,
+      "Lithology": "ds",
+      "Color": "mørk grå"
+    }
+  ],
+  "LOOP6_P2A": [
+    {
+      "From": 0.0,
+      "To": 0.6,
+      "Lithology": "m",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 0.6,
+      "To": 1.22,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 1.22,
+      "To": 4.88,
+      "Lithology": "x",
+      "Color": NaN
+    }
+  ],
+  "LOOP6_P3": [
+    {
+      "From": 0.0,
+      "To": 0.55,
+      "Lithology": "m",
+      "Color": "sortbrun"
+    },
+    {
+      "From": 0.55,
+      "To": 0.78,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 0.78,
+      "To": 1.4,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 1.4,
+      "To": 1.9,
+      "Lithology": "ds",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.9,
+      "To": 2.7,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 2.7,
+      "To": 3.9,
+      "Lithology": "ds",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 3.9,
+      "To": 5.5,
+      "Lithology": "ds",
+      "Color": "brun"
+    },
+    {
+      "From": 5.5,
+      "To": 6.65,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 6.65,
+      "To": 7.0,
+      "Lithology": "di",
+      "Color": "brun"
+    },
+    {
+      "From": 7.0,
+      "To": 7.4,
+      "Lithology": "dg",
+      "Color": "brun"
+    },
+    {
+      "From": 7.4,
+      "To": 8.1,
+      "Lithology": "ds",
+      "Color": "sort"
+    },
+    {
+      "From": 8.1,
+      "To": 8.8,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 8.8,
+      "To": 9.0,
+      "Lithology": "ms",
+      "Color": "grå"
+    },
+    {
+      "From": 9.0,
+      "To": 9.5,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 9.5,
+      "To": 9.76,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    }
+  ],
+  "LOOP6_P4": [
+    {
+      "From": 0.0,
+      "To": 0.32,
+      "Lithology": "m",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 0.32,
+      "To": 0.84,
+      "Lithology": "ms",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 0.84,
+      "To": 1.4,
+      "Lithology": "ms",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.4,
+      "To": 1.9,
+      "Lithology": "ml",
+      "Color": "lys brunsort"
+    },
+    {
+      "From": 1.9,
+      "To": 2.5,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.5,
+      "To": 3.1,
+      "Lithology": "ms",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 3.1,
+      "To": 3.8,
+      "Lithology": "ms",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 3.8,
+      "To": 4.3,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 4.3,
+      "To": 5.0,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 5.0,
+      "To": 5.6,
+      "Lithology": "ml",
+      "Color": "brun"
+    },
+    {
+      "From": 5.6,
+      "To": 6.0,
+      "Lithology": "ml",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 6.0,
+      "To": 6.2,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 6.2,
+      "To": 6.7,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 6.7,
+      "To": 7.32,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    }
+  ],
+  "LOOP6_P5": [
+    {
+      "From": 0.0,
+      "To": 0.37,
+      "Lithology": "m",
+      "Color": "sortgrå"
+    },
+    {
+      "From": 0.37,
+      "To": 1.0,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.0,
+      "To": 1.5,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.5,
+      "To": 2.0,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.0,
+      "To": 2.5,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 2.5,
+      "To": 3.1,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 3.1,
+      "To": 3.8,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 3.8,
+      "To": 4.5,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 4.5,
+      "To": 5.0,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 5.0,
+      "To": 5.6,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 5.6,
+      "To": 6.1,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 6.1,
+      "To": 6.6,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    },
+    {
+      "From": 6.6,
+      "To": 7.0,
+      "Lithology": "ds",
+      "Color": "rødbrun"
+    },
+    {
+      "From": 7.0,
+      "To": 7.3,
+      "Lithology": "ds",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 7.3,
+      "To": 8.2,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 8.2,
+      "To": 9.9,
+      "Lithology": "s",
+      "Color": "grå"
+    },
+    {
+      "From": 9.9,
+      "To": 10.98,
+      "Lithology": "s",
+      "Color": "grå"
+    }
+  ],
+  "LOOP6_P6": [
+    {
+      "From": 0.0,
+      "To": 0.57,
+      "Lithology": "m",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 0.57,
+      "To": 0.8,
+      "Lithology": "ds",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 0.8,
+      "To": 1.4,
+      "Lithology": "dg",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 1.4,
+      "To": 2.0,
+      "Lithology": "dg",
+      "Color": "brun"
+    },
+    {
+      "From": 2.0,
+      "To": 2.7,
+      "Lithology": "ds",
+      "Color": "lys brunsort"
+    },
+    {
+      "From": 2.7,
+      "To": 3.7,
+      "Lithology": "ds",
+      "Color": "lys brungrå"
+    },
+    {
+      "From": 3.7,
+      "To": 4.69,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 4.69,
+      "To": 5.63,
+      "Lithology": "ds",
+      "Color": "gråbrun"
+    },
+    {
+      "From": 5.63,
+      "To": 5.97,
+      "Lithology": "ds",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 5.97,
+      "To": 6.8,
+      "Lithology": "ds",
+      "Color": "grå"
+    },
+    {
+      "From": 6.8,
+      "To": 7.4,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 7.4,
+      "To": 8.0,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    },
+    {
+      "From": 8.0,
+      "To": 8.54,
+      "Lithology": "ml",
+      "Color": "mørk grå"
+    }
+  ],
+  "LOOP6_P7": [
+    {
+      "From": 0.0,
+      "To": 0.34,
+      "Lithology": "m",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 0.34,
+      "To": 0.8,
+      "Lithology": "ds",
+      "Color": "rødbrun"
+    },
+    {
+      "From": 0.8,
+      "To": 1.7,
+      "Lithology": "ds",
+      "Color": "gulbrun"
+    },
+    {
+      "From": 1.7,
+      "To": 2.5,
+      "Lithology": "ds",
+      "Color": "lys gulbrun"
+    },
+    {
+      "From": 2.5,
+      "To": 3.66,
+      "Lithology": "dg",
+      "Color": "mørk gulbrun"
+    },
+    {
+      "From": 3.66,
+      "To": 4.79,
+      "Lithology": "dg",
+      "Color": "mørkbrun"
+    },
+    {
+      "From": 4.79,
+      "To": 6.5,
+      "Lithology": "dg",
+      "Color": "mørk gråbrun"
+    },
+    {
+      "From": 6.5,
+      "To": 8.54,
+      "Lithology": "ds",
+      "Color": "lys gråbrun"
+    }
+  ]
+}

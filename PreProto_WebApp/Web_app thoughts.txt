@@ -1,0 +1,23 @@
+
+Whatever file that we have not specifically agreed to have as an output, that is whatever .py or other file that you -my Dear Gemini- is going to produce as a tool for obtaining whatever agreed specific outcome (e.g. a jupyter notebook, html or ccs file) is going to go inside the "Gemini Vault" folder
+
+
+
+Parent folder, repo, with all the relevant data in it. 
+	some folders are going to be where all the parent data is
+	some other folders are going 
+	then there is going to be all of the codes that you produce for producing the website itself. 
+
+
+
+Hosting, GitHub, ok, but, security and sharing
+
+
+
+
+Security
+
+
+
+
+Updates: Version Control. Access from different computers. Access to files from the website, allow donwloads. 

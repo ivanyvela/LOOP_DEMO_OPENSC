@@ -1,0 +1,89 @@
+graph TD
+    %% Styling
+    classDef input fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
+    classDef process fill:#fff3e0,stroke:#e65100,stroke-width:2px;
+    classDef decision fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px;
+    classDef output fill:#fce4ec,stroke:#880e4f,stroke-width:2px;
+
+    %% Data Preparation
+    subgraph DataPrep ["Phase 0: Data Integration and Mapping"]
+        A1["Borehole Logs<br>(LOOP and DEMO Areas)"]:::input
+        A2["Master Lithology Dataset<br>(Intervals: Depth, Litho, Color)"]:::process
+        A3["Color Mapping Table<br>(Danish -> English, P_ox logic)"]:::input
+        A4["Lithology Mapping Table<br>(Danish -> English, Factors)"]:::input
+        
+        A1 --> A2
+        A3 --> A2
+        A4 --> A2
+    end
+
+    %% Phase 1: Interval-Level Processing
+    subgraph Phase1 ["Phase 1: Interval-Level P_ox Calculation"]
+        direction TB
+        B["For Each Lithology Interval<br>Z_c = Interval Midpoint"]:::process
+        
+        C{"P_ox Logic?"}:::decision
+        C1["Fixed Value<br>(e.g., 0.0, 0.35, 1.0)"]:::process
+        C2["Depth Dependent<br>(Table 4 Interpolation)"]:::process
+        
+        B --> C
+        C -- "Fixed" --> C1
+        C -- "Depth-Dep" --> C2
+        
+        D{"Lithology Factor?"}:::decision
+        D1["Topsoil / Hummus<br>(Ignore)"]:::process
+        D2["Fine-grained<br>(Penalty: 0.2)"]:::process
+        D3["Coarse-grained<br>(Factor: 1.0)"]:::process
+        D4["Organic-rich<br>(Factor: 0.0 unless P_ox=1)"]:::process
+
+        C1 & C2 --> D
+        D -- "Topsoil" --> D1
+        D -- "Fine" --> D2
+        D -- "Coarse" --> D3
+        D -- "Organic" --> D4
+
+        E["Final Interval P_ox =<br>Base P_ox × Factor"]:::process
+        F["Exclude from Analysis"]:::process
+
+        D1 --> F
+        D2 & D3 & D4 --> E
+    end
+
+    %% Phase 2: Discretization & Aggregation
+    subgraph Phase2 ["Phase 2: Borehole-Level Discretization"]
+        direction TB
+        G["Discretize Borehole into<br>Fixed Bins (e.g., 0.2m)"]:::process
+        H["Calculate Length-Weighted<br>Average P_ox per Bin"]:::process
+        
+        E --> G
+        G --> H
+    end
+
+    %% Phase 3: Interface Detection
+    subgraph Phase3 ["Phase 3: FRI Identification Scan"]
+        direction TB
+        I{"Scan Direction?"}:::decision
+        I1["Top-Down<br>(First Reduced)"]:::process
+        I2["Bottom-Up<br>(Deepest Oxic)"]:::process
+        
+        H --> I
+        I -- "Chosen" --> I1
+        I -- "Alternative" --> I2
+        
+        J{"Condition Met?"}:::decision
+        J1["Binned P_ox ≤ Threshold<br>for N Consecutive Bins"]:::process
+        
+        I1 & I2 --> J1
+        J1 --> J
+        
+        K["Interface Found"]:::process
+        J -- "Yes" --> K
+    end
+
+    %% Final Output
+    L["Color-Based First Redox Interface (FRI)<br>Depth = Center of First Satisfying Bin"]:::output
+    K --> L
+
+    %% Annotations
+    note1["<b>Thresholds & Parameters:</b><br>• Redox Threshold = 0.1<br>• Bin Size = 0.2m<br>• Persistence = 5 Bins (1.0m)"]
+    style note1 fill:#fff,stroke:#333,stroke-dasharray: 5 5

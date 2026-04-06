@@ -1,0 +1,1760 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   aria-roledescription="flowchart-v2"
+   role="graphics-document document"
+   viewBox="-8 -8 1964.13134765625 2153.22509765625"
+   style="max-width: 1964.13px; background-color: rgb(255, 255, 255);"
+   width="100%"
+   id="mermaid-1774368336250"
+   version="1.1"
+   sodipodi:docname="2026_Color_FRI_Algorithm_Flowchart_Inkscape.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs113" />
+  <sodipodi:namedview
+     id="namedview113"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.3653937"
+     inkscape:cx="1717.0872"
+     inkscape:cy="1123.8517"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="1848"
+     inkscape:window-y="1717"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <style
+     id="style1">#mermaid-1774368336250{font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:16px;fill:#333;}#mermaid-1774368336250 .error-icon{fill:#552222;}#mermaid-1774368336250 .error-text{fill:#552222;stroke:#552222;}#mermaid-1774368336250 .edge-thickness-normal{stroke-width:2px;}#mermaid-1774368336250 .edge-thickness-thick{stroke-width:3.5px;}#mermaid-1774368336250 .edge-pattern-solid{stroke-dasharray:0;}#mermaid-1774368336250 .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-1774368336250 .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-1774368336250 .marker{fill:#333333;stroke:#333333;}#mermaid-1774368336250 .marker.cross{stroke:#333333;}#mermaid-1774368336250 svg{font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:16px;}#mermaid-1774368336250 .label{font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;color:#333;}#mermaid-1774368336250 .cluster-label text{fill:#333;}#mermaid-1774368336250 .cluster-label span,#mermaid-1774368336250 p{color:#333;}#mermaid-1774368336250 .label text,#mermaid-1774368336250 span,#mermaid-1774368336250 p{fill:#333;color:#333;}#mermaid-1774368336250 .node rect,#mermaid-1774368336250 .node circle,#mermaid-1774368336250 .node ellipse,#mermaid-1774368336250 .node polygon,#mermaid-1774368336250 .node path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}#mermaid-1774368336250 .flowchart-label text{text-anchor:middle;}#mermaid-1774368336250 .node .label{text-align:center;}#mermaid-1774368336250 .node.clickable{cursor:pointer;}#mermaid-1774368336250 .arrowheadPath{fill:#333333;}#mermaid-1774368336250 .edgePath .path{stroke:#333333;stroke-width:2.0px;}#mermaid-1774368336250 .flowchart-link{stroke:#333333;fill:none;}#mermaid-1774368336250 .edgeLabel{background-color:#e8e8e8;text-align:center;}#mermaid-1774368336250 .edgeLabel rect{opacity:0.5;background-color:#e8e8e8;fill:#e8e8e8;}#mermaid-1774368336250 .labelBkg{background-color:rgba(232, 232, 232, 0.5);}#mermaid-1774368336250 .cluster rect{fill:#ffffde;stroke:#aaaa33;stroke-width:1px;}#mermaid-1774368336250 .cluster text{fill:#333;}#mermaid-1774368336250 .cluster span,#mermaid-1774368336250 p{color:#333;}#mermaid-1774368336250 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:12px;background:hsl(80, 100%, 96.2745098039%);border:1px solid #aaaa33;border-radius:2px;pointer-events:none;z-index:100;}#mermaid-1774368336250 .flowchartTitleText{text-anchor:middle;font-size:18px;fill:#333;}#mermaid-1774368336250 :root{--mermaid-font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;}#mermaid-1774368336250 .input&gt;*{fill:#e1f5fe!important;stroke:#01579b!important;stroke-width:2px!important;}#mermaid-1774368336250 .input span{fill:#e1f5fe!important;stroke:#01579b!important;stroke-width:2px!important;}#mermaid-1774368336250 .process&gt;*{fill:#fff3e0!important;stroke:#e65100!important;stroke-width:2px!important;}#mermaid-1774368336250 .process span{fill:#fff3e0!important;stroke:#e65100!important;stroke-width:2px!important;}#mermaid-1774368336250 .decision&gt;*{fill:#e8f5e9!important;stroke:#1b5e20!important;stroke-width:2px!important;}#mermaid-1774368336250 .decision span{fill:#e8f5e9!important;stroke:#1b5e20!important;stroke-width:2px!important;}#mermaid-1774368336250 .output&gt;*{fill:#fce4ec!important;stroke:#880e4f!important;stroke-width:2px!important;}#mermaid-1774368336250 .output span{fill:#fce4ec!important;stroke:#880e4f!important;stroke-width:2px!important;}</style>
+  <g
+     id="g113">
+    <marker
+       orient="auto"
+       markerHeight="12"
+       markerWidth="12"
+       markerUnits="userSpaceOnUse"
+       refY="5"
+       refX="10"
+       viewBox="0 0 10 10"
+       class="marker flowchart"
+       id="flowchart-pointEnd">
+      <path
+         style="stroke-width: 1; stroke-dasharray: 1, 0;"
+         class="arrowMarkerPath"
+         d="M 0 0 L 10 5 L 0 10 z"
+         id="path1" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="12"
+       markerWidth="12"
+       markerUnits="userSpaceOnUse"
+       refY="5"
+       refX="0"
+       viewBox="0 0 10 10"
+       class="marker flowchart"
+       id="flowchart-pointStart">
+      <path
+         style="stroke-width: 1; stroke-dasharray: 1, 0;"
+         class="arrowMarkerPath"
+         d="M 0 5 L 10 10 L 10 0 z"
+         id="path2" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="11"
+       markerWidth="11"
+       markerUnits="userSpaceOnUse"
+       refY="5"
+       refX="11"
+       viewBox="0 0 10 10"
+       class="marker flowchart"
+       id="flowchart-circleEnd">
+      <circle
+         style="stroke-width: 1; stroke-dasharray: 1, 0;"
+         class="arrowMarkerPath"
+         r="5"
+         cy="5"
+         cx="5"
+         id="circle2" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="11"
+       markerWidth="11"
+       markerUnits="userSpaceOnUse"
+       refY="5"
+       refX="-1"
+       viewBox="0 0 10 10"
+       class="marker flowchart"
+       id="flowchart-circleStart">
+      <circle
+         style="stroke-width: 1; stroke-dasharray: 1, 0;"
+         class="arrowMarkerPath"
+         r="5"
+         cy="5"
+         cx="5"
+         id="circle3" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="11"
+       markerWidth="11"
+       markerUnits="userSpaceOnUse"
+       refY="5.2"
+       refX="12"
+       viewBox="0 0 11 11"
+       class="marker cross flowchart"
+       id="flowchart-crossEnd">
+      <path
+         style="stroke-width: 2; stroke-dasharray: 1, 0;"
+         class="arrowMarkerPath"
+         d="M 1,1 l 9,9 M 10,1 l -9,9"
+         id="path3" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="11"
+       markerWidth="11"
+       markerUnits="userSpaceOnUse"
+       refY="5.2"
+       refX="-1"
+       viewBox="0 0 11 11"
+       class="marker cross flowchart"
+       id="flowchart-crossStart">
+      <path
+         style="stroke-width: 2; stroke-dasharray: 1, 0;"
+         class="arrowMarkerPath"
+         d="M 1,1 l 9,9 M 10,1 l -9,9"
+         id="path4" />
+    </marker>
+    <g
+       class="root"
+       id="g112">
+      <g
+         class="clusters"
+         id="g7"
+         style="display:inline">
+        <g
+           id="Phase3"
+           class="cluster default flowchart-label"
+           transform="translate(1305.0515,-1008.8255)">
+          <rect
+             height="735.27496"
+             width="398"
+             y="1300.15"
+             x="92.625"
+             ry="0"
+             rx="0"
+             id="rect4" />
+          <g
+             transform="translate(178.73125,1300.15)"
+             class="cluster-label"
+             id="g4">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text4"><span
+                 class="nodeLabel">Phase 3: FRI Identification Scan</span></text>
+          </g>
+        </g>
+        <g
+           id="Phase2"
+           class="cluster default flowchart-label">
+          <rect
+             height="203.60001"
+             width="278.88751"
+             y="1046.55"
+             x="134.14375"
+             ry="0"
+             rx="0"
+             id="rect5" />
+          <g
+             transform="translate(135.85626,1046.55)"
+             class="cluster-label"
+             id="g5">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text5"><span
+                 class="nodeLabel">Phase 2: Borehole-Level Discretization</span></text>
+          </g>
+        </g>
+        <g
+           id="Phase1"
+           class="cluster default flowchart-label">
+          <rect
+             height="996.54999"
+             width="845.95624"
+             y="0"
+             x="0"
+             ry="0"
+             rx="0"
+             id="rect6" />
+          <g
+             transform="translate(278.90937)"
+             class="cluster-label"
+             id="g6">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text6"><span
+                 class="nodeLabel">Phase 1: Interval-Level P_ox Calculation</span></text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="edgePaths"
+         id="g8">
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-B LE-C"
+           id="L-B-C-0"
+           d="M391.45312690734863,152.7000026702881L391.45312690734863,169.51666990915933C391.45312690734863,186.3333371480306,391.45312690734863,219.9666716257731,391.53646024068195,241.03333934148154C391.6197935740153,262.10000705718994,391.78646024068195,270.6000080108643,391.8697935740153,274.8500084877015L391.95312690734863,279.10000896453863" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-C LE-C1"
+           id="L-C-C1-0"
+           d="M344.6579011038995,362.01727705757395L308.507626301386,375.51648084952245C272.35735149887245,389.01568464147095,200.05680189384543,416.0140922253681,163.9065270913319,435.2132959855275C127.75625228881836,454.41249974568683,127.75625228881836,465.8124996821086,127.75625228881836,471.5124996503194L127.75625228881836,477.2124996185303" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-C LE-C2"
+           id="L-C-C2-0"
+           d="M441.772240429908,359.4933950605093L487.32374316933254,373.4132458519686C532.8752459087569,387.33309664342795,623.9782513876061,415.1727982263465,669.5297541270305,434.7926489860167C715.0812568664551,454.41249974568683,715.0812568664551,465.8124996821086,715.0812568664551,471.5124996503194L715.0812568664551,477.2124996185303" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-C1 LE-D"
+           id="L-C1-D-0"
+           d="M127.75625228881836,529.0124988555908L127.75625228881836,533.1791655222574C127.75625228881836,537.3458321889242,127.75625228881836,545.6791655222574,161.7680439548174,564.1168528004011C195.77983562081639,582.5545400785448,263.8034189528144,611.0965813014989,297.8152106188134,625.3676019129758L331.82700228481247,639.6386225244529" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-C2 LE-D"
+           id="L-C2-D-0"
+           d="M715.0812568664551,529.0124988555908L715.0812568664551,533.1791655222574C715.0812568664551,537.3458321889242,715.0812568664551,545.6791655222574,671.8263860948833,564.6956499028158C628.5715153233117,583.7121342833742,542.0617737801682,613.4117697111576,498.8069030085965,628.2615874250492L455.5520322370249,643.111405138941" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-D LE-D1"
+           id="L-D-D1-0"
+           d="m 1612.9536,160.03192 46.4739,19.77101 c 46.474,19.77101 139.4218,59.31302 185.8957,86.089 46.474,26.77598 46.474,40.78591 46.474,47.79088 v 7.00497" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-D LE-D2"
+           id="L-D-D2-0"
+           d="M332.42098227160966,690.5178593696932L296.201860353498,706.056550269473C259.98273843538624,721.5952411692527,187.54449459916285,752.6726229688121,151.32537268105116,773.9113138368026C115.10625076293945,795.1500047047933,115.10625076293945,806.550004641215,115.10625076293945,812.2500046094259L115.10625076293945,817.9500045776367" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-D LE-D3"
+           id="L-D-D3-0"
+           d="M351.3584754031528,709.4553525012363L339.947688344587,721.8377945457588C328.53690128602113,734.2202365902814,305.7153271688895,758.9851206793264,294.30454011032367,777.0675626920598C282.8937530517578,795.1500047047933,282.8937530517578,806.550004641215,282.8937530517578,812.2500046094259L282.8937530517578,817.9500045776367" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-D LE-D4"
+           id="L-D-D4-0"
+           d="M432.392960182599,709.6101688228333L443.5316338669689,721.9668081470896C454.67030755133874,734.323447471346,476.94765492007855,759.0367261198588,488.08632860444845,777.0933654123261C499.22500228881836,795.1500047047933,499.22500228881836,806.550004641215,499.22500228881836,812.2500046094259L499.22500228881836,817.9500045776367" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-D1 LE-F"
+           id="L-D1-F-0"
+           d="M725.9125022888184,869.7500038146973L725.9125022888184,873.9166704813639C725.9125022888184,878.0833371480306,725.9125022888184,886.4166704813639,725.9125022888184,896.2833369572958C725.9125022888184,906.1500034332275,725.9125022888184,917.5500030517578,725.9125022888184,923.250002861023L725.9125022888184,928.9500026702881" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-D2 LE-E"
+           id="L-D2-E-0"
+           d="M115.10625076293945,869.7500038146973L115.10625076293945,873.9166704813639C115.10625076293945,878.0833371480306,115.10625076293945,886.4166704813639,128.07950352696807,894.7500038146973C141.05275629099665,903.0833371480306,166.99926181905388,911.4166704813639,179.97251458308247,915.5833371480306L192.9457673471111,919.7500038146973" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-D3 LE-E"
+           id="L-D3-E-0"
+           d="M282.8937530517578,869.7500038146973L282.8937530517578,873.9166704813639C282.8937530517578,878.0833371480306,282.8937530517578,886.4166704813639,282.1319449491934,894.7500038146973C281.3701368466289,903.0833371480306,279.84652064150004,911.4166704813639,279.08471253893555,915.5833371480306L278.3229044363711,919.7500038146973" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-D4 LE-E"
+           id="L-D4-E-0"
+           d="M499.22500228881836,869.7500038146973L499.22500228881836,873.9166704813639C499.22500228881836,878.0833371480306,499.22500228881836,886.4166704813639,475.1229197184245,896.0203589650215C451.0208371480306,905.6240474486793,402.81667200724286,916.4980910826613,378.71458943684894,921.9351128996523L354.6125068664551,927.3721347166432" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none;"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-G LE-H"
+           id="L-G-H-0"
+           d="M273.5875053405762,1123.3500022888184L273.5875053405762,1127.516668955485C273.5875053405762,1131.6833356221516,273.5875053405762,1140.016668955485,273.5875053405762,1148.3500022888184C273.5875053405762,1156.6833356221516,273.5875053405762,1165.016668955485,273.5875053405762,1169.1833356221516L273.5875053405762,1173.3500022888184" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-I LE-I1"
+           id="L-I-I1-0"
+           d="m 1557.8794,448.75941 -4.6395,9.76411 c -4.6395,9.76412 -13.9186,29.29235 -18.5581,44.75647 -4.6396,15.46411 -4.6396,26.86411 -4.6396,32.56411 v 5.7" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-I LE-I2"
+           id="L-I-I2-0"
+           d="m 1623.3301,433.07808 13.1833,12.37767 c 13.1833,12.37767 39.5498,37.13301 52.7331,55.21068 13.1832,18.07767 13.1832,29.47767 13.1832,35.17767 v 5.7" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-I1 LE-J1"
+           id="L-I1-J1-0"
+           d="m 1530.0422,593.3441 v 4.16667 c 0,4.16666 0,12.5 4.2749,20.83333 4.2749,8.33333 12.8246,16.66667 17.0995,20.83333 l 4.2749,4.16667" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-I2 LE-J1"
+           id="L-I2-J1-0"
+           d="m 1702.4297,593.3441 v 4.16667 c 0,4.16666 0,12.5 -9.8367,20.83333 -9.8367,8.33333 -29.5102,16.66667 -39.347,20.83333 l -9.8367,4.16667" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-J1 LE-J"
+           id="L-J1-J-0"
+           d="m 1582.2641,695.1441 v 4.16667 c 0,4.16666 0,12.5 0.083,20.91666 0.083,8.41667 0.25,16.91667 0.3334,21.16667 l 0.083,4.25" />
+        <path
+           marker-end="url(#flowchart-pointEnd)"
+           style="fill:none"
+           class="edge-thickness-normal edge-pattern-solid flowchart-link LS-J LE-K"
+           id="L-J-K-0"
+           d="m 1585.3535,1088.8069 -0.083,5.6167 c -0.083,5.6166 -0.25,16.85 -0.3333,28.1666 -0.083,11.3167 -0.083,22.7167 -0.083,28.4167 v 5.7" />
+      </g>
+      <g
+         class="edgeLabels"
+         id="g55">
+        <g
+           class="edgeLabel"
+           id="g10">
+          <g
+             class="label"
+             id="g9"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text8"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           transform="translate(127.75625228881836, 443.01249980926514)"
+           class="edgeLabel"
+           id="g12">
+          <g
+             transform="translate(-19.3125, -9.199999809265137)"
+             class="label"
+             id="g11">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text10"><span
+                 class="edgeLabel">Fixed</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(715.0812568664551, 443.01249980926514)"
+           class="edgeLabel"
+           id="g14">
+          <g
+             transform="translate(-37.9375, -9.199999809265137)"
+             class="label"
+             id="g13">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text12"><span
+                 class="edgeLabel">Depth-Dep</span></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g16">
+          <g
+             class="label"
+             id="g15"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text14"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g18">
+          <g
+             class="label"
+             id="g17"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text16"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           transform="translate(725.9125022888184, 783.7500047683716)"
+           class="edgeLabel"
+           id="g20">
+          <g
+             transform="translate(-24.575000762939453, -9.199999809265137)"
+             class="label"
+             id="g19">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text18"><span
+                 class="edgeLabel">Topsoil</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(115.10625076293945, 783.7500047683716)"
+           class="edgeLabel"
+           id="g22">
+          <g
+             transform="translate(-15.21875, -9.199999809265137)"
+             class="label"
+             id="g21">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text20"><span
+                 class="edgeLabel">Fine</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(282.8937530517578, 783.7500047683716)"
+           class="edgeLabel"
+           id="g24">
+          <g
+             transform="translate(-23.993749618530273, -9.199999809265137)"
+             class="label"
+             id="g23">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text22"><span
+                 class="edgeLabel">Coarse</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(499.22500228881836, 783.7500047683716)"
+           class="edgeLabel"
+           id="g26">
+          <g
+             transform="translate(-27.337499618530273, -9.199999809265137)"
+             class="label"
+             id="g25">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text24"><span
+                 class="edgeLabel">Organic</span></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g28">
+          <g
+             class="label"
+             id="g27"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text26"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g30">
+          <g
+             class="label"
+             id="g29"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text28"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g32">
+          <g
+             class="label"
+             id="g31"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text30"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g34">
+          <g
+             class="label"
+             id="g33"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text32"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g36">
+          <g
+             class="label"
+             id="g35"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text34"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g38">
+          <g
+             class="label"
+             id="g37"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text36"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g40">
+          <g
+             class="label"
+             id="g39"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text38"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           transform="translate(221.36562538146973, 1516.6874952316284)"
+           class="edgeLabel"
+           id="g42">
+          <g
+             transform="translate(-25.42500114440918, -9.199999809265137)"
+             class="label"
+             id="g41">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text40"><span
+                 class="edgeLabel">Chosen</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(393.7531261444092, 1516.6874952316284)"
+           class="edgeLabel"
+           id="g44">
+          <g
+             transform="translate(-40.03125, -9.199999809265137)"
+             class="label"
+             id="g43">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text42"><span
+                 class="edgeLabel">Alternative</span></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g46">
+          <g
+             class="label"
+             id="g45"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text44"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g48">
+          <g
+             class="label"
+             id="g47"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text46"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g50">
+          <g
+             class="label"
+             id="g49"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text48"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+        <g
+           transform="translate(273.5875053405762, 1942.824990272522)"
+           class="edgeLabel"
+           id="g52">
+          <g
+             transform="translate(-11.324999809265137, -9.199999809265137)"
+             class="label"
+             id="g51">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text50"><span
+                 class="edgeLabel">Yes</span></text>
+          </g>
+        </g>
+        <g
+           class="edgeLabel"
+           id="g54">
+          <g
+             class="label"
+             id="g53"
+             transform="translate(0, 0)">
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text52"><span
+                 class="edgeLabel" /></text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="nodes"
+         id="g111">
+        <g
+           transform="translate(1583.0999,396.05081)"
+           id="flowchart-I-198"
+           class="node default decision flowchart-label">
+          <polygon
+             transform="translate(-78.66875,78.66875)"
+             class="label-container"
+             points="157.3375,-78.66875 78.66875,-157.3375 0,-78.66875 78.66875,0 "
+             id="polygon55" />
+          <g
+             transform="translate(-54.46875,-9.1999998)"
+             class="label"
+             id="g56">
+            <rect
+               id="rect55"
+               width="0"
+               height="0"
+               x="0"
+               y="0" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text55"><span
+                 class="nodeLabel">Scan Direction?</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(1530.878,569.01956)"
+           id="flowchart-I1-199"
+           class="node default process flowchart-label">
+          <rect
+             height="51.799999"
+             width="124.1875"
+             y="-25.9"
+             x="-62.09375"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect56" />
+          <g
+             transform="translate(-54.59375,-18.4)"
+             class="label"
+             id="g57">
+            <rect
+               id="rect57"
+               width="0"
+               height="0"
+               x="0"
+               y="0" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text57"><span
+                 class="nodeLabel">Top-Down<br />(First Reduced)</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(1703.2655,569.01956)"
+           id="flowchart-I2-200"
+           class="node default process flowchart-label">
+          <rect
+             height="51.799999"
+             width="120.5875"
+             y="-25.9"
+             x="-60.293751"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect58" />
+          <g
+             transform="translate(-52.793751,-18.4)"
+             class="label"
+             id="g59">
+            <rect
+               id="rect59"
+               width="0"
+               height="0"
+               x="0"
+               y="0" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text59"><span
+                 class="nodeLabel">Bottom-Up<br />(Deepest Oxic)</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(1583.0999,823.78831)"
+           id="flowchart-J-207"
+           class="node default decision flowchart-label">
+          <polygon
+             transform="translate(-77.068751,77.068751)"
+             class="label-container"
+             points="154.1375,-77.068751 77.068751,-154.1375 0,-77.068751 77.068751,0 "
+             id="polygon59" />
+          <g
+             transform="translate(-52.868752,-9.1999998)"
+             class="label"
+             id="g60">
+            <rect
+               id="rect60"
+               width="0"
+               height="0"
+               x="0"
+               y="0" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text60"><span
+                 class="nodeLabel">Condition Met?</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(1583.0999,670.81956)"
+           id="flowchart-J1-208"
+           class="node default process flowchart-label">
+          <rect
+             height="51.799999"
+             width="190.6375"
+             y="-25.9"
+             x="-95.318748"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect61" />
+          <g
+             transform="translate(-87.818748,-18.4)"
+             class="label"
+             id="g62">
+            <rect
+               id="rect62"
+               width="0"
+               height="0"
+               x="0"
+               y="0" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text62"><span
+                 class="nodeLabel">Binned P_ox ≤ Threshold<br />for N Consecutive Bins</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(1583.0999,985.95705)"
+           id="flowchart-K-214"
+           class="node default process flowchart-label">
+          <rect
+             height="33.400002"
+             width="128.66251"
+             y="-16.700001"
+             x="-64.331253"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect63" />
+          <g
+             transform="translate(-56.831249,-9.1999998)"
+             class="label"
+             id="g64">
+            <rect
+               id="rect64"
+               width="0"
+               height="0"
+               x="0"
+               y="0" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text64"><span
+                 class="nodeLabel">Interface Found</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(273.5875053405762, 1097.450002670288)"
+           id="flowchart-G-192"
+           class="node default process flowchart-label">
+          <rect
+             height="51.79999923706055"
+             width="187.1875"
+             y="-25.899999618530273"
+             x="-93.59375"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect65"
+             style="" />
+          <g
+             transform="translate(-86.09375, -18.399999618530273)"
+             class="label"
+             id="g66"
+             style="">
+            <rect
+               id="rect66" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text66"><span
+                 class="nodeLabel">Discretize Borehole into<br />Fixed Bins (e.g., 0.2m)</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(273.5875053405762, 1199.2500019073486)"
+           id="flowchart-H-193"
+           class="node default process flowchart-label">
+          <rect
+             height="51.79999923706055"
+             width="208.8874969482422"
+             y="-25.899999618530273"
+             x="-104.4437484741211"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect67"
+             style="" />
+          <g
+             transform="translate(-96.9437484741211, -18.399999618530273)"
+             class="label"
+             id="g68"
+             style="">
+            <rect
+               id="rect68" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text68"><span
+                 class="nodeLabel">Calculate Length-Weighted<br />Average P_ox per Bin</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(391.45312690734863, 126.80000305175781)"
+           id="flowchart-B-158"
+           class="node default process flowchart-label">
+          <rect
+             height="51.79999923706055"
+             width="207.3125"
+             y="-25.899999618530273"
+             x="-103.65625"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect69"
+             style="" />
+          <g
+             transform="translate(-96.15625, -18.399999618530273)"
+             class="label"
+             id="g70"
+             style="">
+            <rect
+               id="rect70" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text70"><span
+                 class="nodeLabel">For Each Lithology Interval<br />Z_c = Interval Midpoint</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(391.45312690734863, 343.7062530517578)"
+           id="flowchart-C-159"
+           class="node default decision flowchart-label">
+          <polygon
+             transform="translate(-65.10624980926514,65.10624980926514)"
+             class="label-container"
+             points="65.10624980926514,0 130.21249961853027,-65.10624980926514 65.10624980926514,-130.21249961853027 0,-65.10624980926514"
+             id="polygon70"
+             style="" />
+          <g
+             transform="translate(-40.90625, -9.199999809265137)"
+             class="label"
+             id="g71"
+             style="">
+            <rect
+               id="rect71" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text71"><span
+                 class="nodeLabel">P_ox Logic?</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(127.75625228881836, 503.11249923706055)"
+           id="flowchart-C1-160"
+           class="node default process flowchart-label">
+          <rect
+             height="51.79999923706055"
+             width="163.71250915527344"
+             y="-25.899999618530273"
+             x="-81.85625457763672"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect72"
+             style="" />
+          <g
+             transform="translate(-74.35625457763672, -18.399999618530273)"
+             class="label"
+             id="g73"
+             style="">
+            <rect
+               id="rect73" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text73"><span
+                 class="nodeLabel">Fixed Value<br />(e.g., 0.0, 0.35, 1.0)</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(715.0812568664551, 503.11249923706055)"
+           id="flowchart-C2-161"
+           class="node default process flowchart-label">
+          <rect
+             height="51.79999923706055"
+             width="176.1875"
+             y="-25.899999618530273"
+             x="-88.09375"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect74"
+             style="" />
+          <g
+             transform="translate(-80.59375, -18.399999618530273)"
+             class="label"
+             id="g75"
+             style="">
+            <rect
+               id="rect75" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text75"><span
+                 class="nodeLabel">Depth Dependent<br />(Table 4 Interpolation)</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(391.45312690734863, 664.2812519073486)"
+           id="flowchart-D-168"
+           class="node default decision flowchart-label">
+          <polygon
+             transform="translate(-85.2687520980835,85.2687520980835)"
+             class="label-container"
+             points="85.2687520980835,0 170.537504196167,-85.2687520980835 85.2687520980835,-170.537504196167 0,-85.2687520980835"
+             id="polygon75"
+             style="" />
+          <g
+             transform="translate(-61.06875228881836, -9.199999809265137)"
+             class="label"
+             id="g76"
+             style="">
+            <rect
+               id="rect76" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text76"><span
+                 class="nodeLabel">Lithology Factor?</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(725.9125022888184, 843.850004196167)"
+           id="flowchart-D1-169"
+           class="node default process flowchart-label">
+          <rect
+             height="51.79999923706055"
+             width="143.1750030517578"
+             y="-25.899999618530273"
+             x="-71.5875015258789"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect77"
+             style="" />
+          <g
+             transform="translate(-64.0875015258789, -18.399999618530273)"
+             class="label"
+             id="g78"
+             style="">
+            <rect
+               id="rect78" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text78"><span
+                 class="nodeLabel">Topsoil / Hummus<br />(Ignore)</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(115.10625076293945, 843.850004196167)"
+           id="flowchart-D2-170"
+           class="node default process flowchart-label">
+          <rect
+             height="51.79999923706055"
+             width="113.11250305175781"
+             y="-25.899999618530273"
+             x="-56.556251525878906"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect79"
+             style="" />
+          <g
+             transform="translate(-49.056251525878906, -18.399999618530273)"
+             class="label"
+             id="g80"
+             style="">
+            <rect
+               id="rect80" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text80"><span
+                 class="nodeLabel">Fine-grained<br />(Penalty: 0.2)</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(282.8937530517578, 843.850004196167)"
+           id="flowchart-D3-171"
+           class="node default process flowchart-label">
+          <rect
+             height="51.79999923706055"
+             width="122.4625015258789"
+             y="-25.899999618530273"
+             x="-61.23125076293945"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect81"
+             style="" />
+          <g
+             transform="translate(-53.73125076293945, -18.399999618530273)"
+             class="label"
+             id="g82"
+             style="">
+            <rect
+               id="rect82" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text82"><span
+                 class="nodeLabel">Coarse-grained<br />(Factor: 1.0)</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(499.22500228881836, 843.850004196167)"
+           id="flowchart-D4-172"
+           class="node default process flowchart-label">
+          <rect
+             height="51.79999923706055"
+             width="210.1999969482422"
+             y="-25.899999618530273"
+             x="-105.0999984741211"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect83"
+             style="" />
+          <g
+             transform="translate(-97.5999984741211, -18.399999618530273)"
+             class="label"
+             id="g84"
+             style="">
+            <rect
+               id="rect84" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text84"><span
+                 class="nodeLabel">Organic-rich<br />(Factor: 0.0 unless P_ox=1)</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(273.5875053405762, 945.6500034332275)"
+           id="flowchart-E-184"
+           class="node default process flowchart-label">
+          <rect
+             height="51.79999923706055"
+             width="162.0500030517578"
+             y="-25.899999618530273"
+             x="-81.0250015258789"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect85"
+             style="" />
+          <g
+             transform="translate(-73.5250015258789, -18.399999618530273)"
+             class="label"
+             id="g86"
+             style="">
+            <rect
+               id="rect86" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text86"><span
+                 class="nodeLabel">Final Interval P_ox =<br />Base P_ox × Factor</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(725.9125022888184, 945.6500034332275)"
+           id="flowchart-F-185"
+           class="node default process flowchart-label">
+          <rect
+             height="33.39999961853027"
+             width="170.08750915527344"
+             y="-16.699999809265137"
+             x="-85.04375457763672"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect87"
+             style="" />
+          <g
+             transform="translate(-77.54375457763672, -9.199999809265137)"
+             class="label"
+             id="g88"
+             style="">
+            <rect
+               id="rect88" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16"
+               fill="#333"
+               id="text88"><span
+                 class="nodeLabel">Exclude from Analysis</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(873.4562568664551, 17)"
+           class="root"
+           id="g107">
+          <g
+             class="clusters"
+             id="g90">
+            <g
+               id="DataPrep"
+               class="cluster default flowchart-label">
+              <rect
+                 height="203.5999984741211"
+                 width="795.2750091552734"
+                 y="8"
+                 x="8"
+                 ry="0"
+                 rx="0"
+                 id="rect89"
+                 style="" />
+              <g
+                 transform="translate(267.6375045776367, 8)"
+                 class="cluster-label"
+                 id="g89">
+                <text
+                   x="50%"
+                   y="50%"
+                   dominant-baseline="middle"
+                   text-anchor="middle"
+                   font-family="Arial"
+                   font-size="16"
+                   fill="#333"
+                   id="text89"><span
+                     class="nodeLabel">Phase 0: Data Integration and Mapping</span></text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="edgePaths"
+             id="g91">
+            <path
+               marker-end="url(#flowchart-pointEnd)"
+               style="fill:none;"
+               class="edge-thickness-normal edge-pattern-solid flowchart-link LS-A1 LE-A2"
+               id="L-A1-A2-0"
+               d="M135.2375030517578,84.79999923706055L135.2375030517578,88.96666590372722C135.2375030517578,93.13333257039388,135.2375030517578,101.46666590372722,158.37604522705078,110.20734790681593C181.51458740234375,118.94802990990463,227.7916717529297,128.09606058274872,250.93021392822266,132.67007591917078L274.0687561035156,137.24409125559282" />
+            <path
+               marker-end="url(#flowchart-pointEnd)"
+               style="fill:none;"
+               class="edge-thickness-normal edge-pattern-solid flowchart-link LS-A3 LE-A2"
+               id="L-A3-A2-0"
+               d="M392.7250061035156,84.79999923706055L392.7250061035156,88.96666590372722C392.7250061035156,93.13333257039388,392.7250061035156,101.46666590372722,392.7250061035156,109.79999923706055C392.7250061035156,118.13333257039388,392.7250061035156,126.46666590372722,392.7250061035156,130.6333325703939L392.7250061035156,134.79999923706055" />
+            <path
+               marker-end="url(#flowchart-pointEnd)"
+               style="fill:none;"
+               class="edge-thickness-normal edge-pattern-solid flowchart-link LS-A4 LE-A2"
+               id="L-A4-A2-0"
+               d="M663.1250076293945,84.79999923706055L663.1250076293945,88.96666590372722C663.1250076293945,93.13333257039388,663.1250076293945,101.46666590372722,637.8343823750814,110.39403082680172C612.5437571207682,119.32139574987623,561.962506612142,128.84279226269194,536.6718813578287,133.60349051909978L511.3812561035156,138.36418877550764" />
+          </g>
+          <g
+             class="edgeLabels"
+             id="g98">
+            <g
+               class="edgeLabel"
+               id="g93">
+              <g
+                 class="label"
+                 id="g92"
+                 transform="translate(0, 0)">
+                <text
+                   x="50%"
+                   y="50%"
+                   dominant-baseline="middle"
+                   text-anchor="middle"
+                   font-family="Arial"
+                   font-size="16"
+                   fill="#333"
+                   id="text91"><span
+                     class="edgeLabel" /></text>
+              </g>
+            </g>
+            <g
+               class="edgeLabel"
+               id="g95">
+              <g
+                 class="label"
+                 id="g94"
+                 transform="translate(0, 0)">
+                <text
+                   x="50%"
+                   y="50%"
+                   dominant-baseline="middle"
+                   text-anchor="middle"
+                   font-family="Arial"
+                   font-size="16"
+                   fill="#333"
+                   id="text93"><span
+                     class="edgeLabel" /></text>
+              </g>
+            </g>
+            <g
+               class="edgeLabel"
+               id="g97">
+              <g
+                 class="label"
+                 id="g96"
+                 transform="translate(0, 0)">
+                <text
+                   x="50%"
+                   y="50%"
+                   dominant-baseline="middle"
+                   text-anchor="middle"
+                   font-family="Arial"
+                   font-size="16"
+                   fill="#333"
+                   id="text95"><span
+                     class="edgeLabel" /></text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="nodes"
+             id="g106">
+            <g
+               transform="translate(135.2375030517578, 58.89999961853027)"
+               id="flowchart-A1-148"
+               class="node default input flowchart-label">
+              <rect
+                 height="51.79999923706055"
+                 width="184.47500610351562"
+                 y="-25.899999618530273"
+                 x="-92.23750305175781"
+                 ry="0"
+                 rx="0"
+                 class="basic label-container"
+                 id="rect98"
+                 style="" />
+              <g
+                 transform="translate(-84.73750305175781, -18.399999618530273)"
+                 class="label"
+                 id="g99"
+                 style="">
+                <rect
+                   id="rect99" />
+                <text
+                   x="50%"
+                   y="50%"
+                   dominant-baseline="middle"
+                   text-anchor="middle"
+                   font-family="Arial"
+                   font-size="16"
+                   fill="#333"
+                   id="text99"><span
+                     class="nodeLabel">Borehole Logs<br />(LOOP and DEMO Areas)</span></text>
+              </g>
+            </g>
+            <g
+               transform="translate(392.7250061035156, 160.69999885559082)"
+               id="flowchart-A2-149"
+               class="node default process flowchart-label">
+              <rect
+                 height="51.79999923706055"
+                 width="237.3125"
+                 y="-25.899999618530273"
+                 x="-118.65625"
+                 ry="0"
+                 rx="0"
+                 class="basic label-container"
+                 id="rect100"
+                 style="" />
+              <g
+                 transform="translate(-111.15625, -18.399999618530273)"
+                 class="label"
+                 id="g101"
+                 style="">
+                <rect
+                   id="rect101" />
+                <text
+                   x="50%"
+                   y="50%"
+                   dominant-baseline="middle"
+                   text-anchor="middle"
+                   font-family="Arial"
+                   font-size="16"
+                   fill="#333"
+                   id="text101"><span
+                     class="nodeLabel">Master Lithology Dataset<br />(Intervals: Depth, Litho, Color)</span></text>
+              </g>
+            </g>
+            <g
+               transform="translate(392.7250061035156, 58.89999961853027)"
+               id="flowchart-A3-150"
+               class="node default input flowchart-label">
+              <rect
+                 height="51.79999923706055"
+                 width="230.5"
+                 y="-25.899999618530273"
+                 x="-115.25"
+                 ry="0"
+                 rx="0"
+                 class="basic label-container"
+                 id="rect102"
+                 style="" />
+              <g
+                 transform="translate(-107.75, -18.399999618530273)"
+                 class="label"
+                 id="g103"
+                 style="">
+                <rect
+                   id="rect103" />
+                <text
+                   x="50%"
+                   y="50%"
+                   dominant-baseline="middle"
+                   text-anchor="middle"
+                   font-family="Arial"
+                   font-size="16"
+                   fill="#333"
+                   id="text103"><span
+                     class="nodeLabel">Color Mapping Table<br />(Danish -&gt; English, P_ox logic)</span></text>
+              </g>
+            </g>
+            <g
+               transform="translate(663.1250076293945, 58.89999961853027)"
+               id="flowchart-A4-151"
+               class="node default input flowchart-label">
+              <rect
+                 height="51.79999923706055"
+                 width="210.3000030517578"
+                 y="-25.899999618530273"
+                 x="-105.1500015258789"
+                 ry="0"
+                 rx="0"
+                 class="basic label-container"
+                 id="rect104"
+                 style="" />
+              <g
+                 transform="translate(-97.6500015258789, -18.399999618530273)"
+                 class="label"
+                 id="g105"
+                 style="">
+                <rect
+                   id="rect105" />
+                <text
+                   x="50%"
+                   y="50%"
+                   dominant-baseline="middle"
+                   text-anchor="middle"
+                   font-family="Arial"
+                   font-size="16"
+                   fill="#333"
+                   id="text105"><span
+                     class="nodeLabel">Lithology Mapping Table<br />(Danish -&gt; English, Factors)</span></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(1385.9885,1186.3956)"
+           id="flowchart-L-217"
+           class="node default output flowchart-label">
+          <rect
+             height="51.799999"
+             width="293.6875"
+             y="-25.9"
+             x="-146.84375"
+             ry="0"
+             rx="0"
+             class="basic label-container"
+             id="rect107" />
+          <g
+             transform="translate(-139.34375,-18.4)"
+             class="label"
+             id="g108">
+            <rect
+               id="rect108"
+               width="0"
+               height="0"
+               x="0"
+               y="0" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text108"><span
+                 class="nodeLabel">Color-Based First Redox Interface (FRI)<br />Depth = Center of First Satisfying Bin</span></text>
+          </g>
+        </g>
+        <g
+           transform="translate(1018.9051,294.07925)"
+           id="flowchart-note1-220"
+           class="node default flowchart-label">
+          <rect
+             height="88.599998"
+             width="221.90001"
+             y="-44.299999"
+             x="-110.95"
+             ry="0"
+             rx="0"
+             style="fill:#ffffff;stroke:#333333;stroke-dasharray:5, 5"
+             class="basic label-container"
+             id="rect109" />
+          <g
+             transform="translate(-103.45,-36.799999)"
+             class="label"
+             id="g110">
+            <rect
+               id="rect110"
+               width="0"
+               height="0"
+               x="0"
+               y="0" />
+            <text
+               x="50%"
+               y="50%"
+               dominant-baseline="middle"
+               text-anchor="middle"
+               font-family="Arial"
+               font-size="16px"
+               fill="#333"
+               id="text110"><span
+                 class="nodeLabel"><b>Thresholds &amp; Parameters:</b><br />• Redox Threshold = 0.1<br />• Bin Size = 0.2m<br />• Persistence = 5 Bins (1.0m)</span></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

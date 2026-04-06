@@ -1,0 +1,137 @@
+{
+  "DEMO_D6": {
+    "Elevation": 2.31,
+    "GEUS_FRI": 7.03,
+    "DGU": "55.2815"
+  },
+  "DEMO_D7": {
+    "Elevation": 13.69,
+    "GEUS_FRI": 6.11,
+    "DGU": "55.2816"
+  },
+  "LOOP2_P1": {
+    "Elevation": 29.0,
+    "GEUS_FRI": 18.37,
+    "DGU": "40.2054"
+  },
+  "LOOP2_P2": {
+    "Elevation": 21.9,
+    "GEUS_FRI": 8.58,
+    "DGU": "40.2055"
+  },
+  "LOOP2_P2A": {
+    "Elevation": 18.77,
+    "GEUS_FRI": 4.95,
+    "DGU": "48.2126"
+  },
+  "LOOP2_P3": {
+    "Elevation": 18.34,
+    "GEUS_FRI": 11.84,
+    "DGU": "48.2127"
+  },
+  "LOOP2_P4": {
+    "Elevation": 32.46,
+    "GEUS_FRI": 17.21,
+    "DGU": "40.2056"
+  },
+  "LOOP3_P1": {
+    "Elevation": 156.96,
+    "GEUS_FRI": 9.53,
+    "DGU": "98.2552"
+  },
+  "LOOP3_P2": {
+    "Elevation": 141.91,
+    "GEUS_FRI": 10.1,
+    "DGU": "98.2553"
+  },
+  "LOOP3_P3": {
+    "Elevation": 156.92,
+    "GEUS_FRI": 10.72,
+    "DGU": "98.2554"
+  },
+  "LOOP3_P5": {
+    "Elevation": 52.98,
+    "GEUS_FRI": 9.41,
+    "DGU": "98.2556"
+  },
+  "LOOP3_P6": {
+    "Elevation": 60.5,
+    "GEUS_FRI": 7.38,
+    "DGU": "98.2557"
+  },
+  "LOOP4_GeoW-2": {
+    "Elevation": 47.51,
+    "GEUS_FRI": 6.46,
+    "DGU": "165.741"
+  },
+  "LOOP4_IS-1": {
+    "Elevation": 25.58,
+    "GEUS_FRI": 6.88,
+    "DGU": "165.744"
+  },
+  "LOOP4_IS-2": {
+    "Elevation": 27.42,
+    "GEUS_FRI": 6.27,
+    "DGU": "165.745"
+  },
+  "LOOP4_MS-1": {
+    "Elevation": 13.76,
+    "GEUS_FRI": 8.97,
+    "DGU": "165.746"
+  },
+  "LOOP4_MS-2": {
+    "Elevation": 16.72,
+    "GEUS_FRI": 9.08,
+    "DGU": "165.747"
+  },
+  "LOOP4_TL-1": {
+    "Elevation": 46.43,
+    "GEUS_FRI": 6.48,
+    "DGU": "165.742"
+  },
+  "LOOP4_TL-2": {
+    "Elevation": 44.55,
+    "GEUS_FRI": 6.26,
+    "DGU": "165.743"
+  },
+  "LOOP6_P1": {
+    "Elevation": 26.42,
+    "GEUS_FRI": 12.32,
+    "DGU": "159.1692"
+  },
+  "LOOP6_P2": {
+    "Elevation": 27.84,
+    "GEUS_FRI": 10.83,
+    "DGU": "159.1693"
+  },
+  "LOOP6_P2A": {
+    "Elevation": 27.5,
+    "GEUS_FRI": 4.91,
+    "DGU": "159.1694"
+  },
+  "LOOP6_P3": {
+    "Elevation": 27.3,
+    "GEUS_FRI": 11.39,
+    "DGU": "159.1695"
+  },
+  "LOOP6_P4": {
+    "Elevation": 45.03,
+    "GEUS_FRI": 9.16,
+    "DGU": "159.1696"
+  },
+  "LOOP6_P5": {
+    "Elevation": 41.12,
+    "GEUS_FRI": 19.35,
+    "DGU": "159.1697"
+  },
+  "LOOP6_P6": {
+    "Elevation": 32.21,
+    "GEUS_FRI": 9.75,
+    "DGU": "159.1698"
+  },
+  "LOOP6_P7": {
+    "Elevation": 31.27,
+    "GEUS_FRI": 15.21,
+    "DGU": "159.1699"
+  }
+}

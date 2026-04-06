@@ -1,0 +1,601 @@
+LOOPNr,ID,Depth_From,Depth_To,Lithology,Color_Description,Munsell_Code
+DEMO,D1,0,0.21,m,mørk gråbrun,10YR 3/2
+DEMO,D1,0.21,0.55,ml,mørk gråbrun,10YR 4/3
+DEMO,D1,0.55,1.4,ml,mørk gulbrun,10YR 4/6
+DEMO,D1,1.4,2,ml,gulbrun,10YR 5/6
+DEMO,D1,2,2.5,ml,gulbrun,10YR 5/6
+DEMO,D1,2.5,3.2,ml,mørk gulbrun,10YR 4/4
+DEMO,D1,3.2,3.6,ds,gulbrun,10YR 5/4
+DEMO,D1,3.6,4.1,ds,brun,10YR 5/3
+DEMO,D1,4.1,4.8,ds,brun,10YR 5/3
+DEMO,D1,4.8,5.3,ds,lys gråbrun,10YR 6/3
+DEMO,D1,5.3,6.1,ds,lys brungrå,10YR 6/2
+DEMO,D1,6.1,7.3,ds,gulbrun,10YR 5/4
+DEMO,D1,7.3,8.4,ds,gulbrun,10YR 5/4
+DEMO,D1,8.4,9.76,ds,lys olivenbrun,2.5Y 5/3
+DEMO,D1a,0,0.55,m,mørk gråbrun,10YR 3/2
+DEMO,D1a,0.55,1.8,ml,mørkbrun,7.5YR 4/4
+DEMO,D1a,1.8,2.7,ml,mørk gulbrun,10YR 4/4
+DEMO,D1a,2.7,3.3,ml,gulbrun,10YR 5/4
+DEMO,D1a,3.3,4.3,ml,brun,10YR 5/3
+DEMO,D1a,4.3,5.1,ml,gråbrun,10YR 5/2
+DEMO,D1a,5.1,5.7,ml,grå,10YR 5/1
+DEMO,D1a,5.7,6.8,ml,mørk grå,10YR 4/1
+DEMO,D1a,6.8,7.7,ml,grå,10YR 5/1
+DEMO,D1a,7.7,8.2,ds,mørk gulbrun,10YR 4/4
+DEMO,D1a,8.2,9.9,ds,lys olivenbrun,2.5Y 5/3
+DEMO,D1a,9.9,11.3,dg,mørkbrun,7.5YR 4/4
+DEMO,D1a,11.3,13,dg,gulbrun,10YR 5/4
+DEMO,D1a,13,13.9,ds,brun,10YR 5/3
+DEMO,D1a,13.9,14.64,ds,gulbrun,10YR 5/4
+DEMO,D4,0,0.4,m,mørk gråbrun,10YR 3/2
+DEMO,D4,0.4,0.6,m,mørk gråbrun,10YR 4/2
+DEMO,D4,0.6,1,ds,brun,10YR 5/3
+DEMO,D4,1,1.22,ds,gulbrun,10YR 5/4
+DEMO,D4,1.22,1.7,dg,mørk gulbrun,10YR 4/4
+DEMO,D4,1.7,2.6,mi,brun,7.5YR 5/3
+DEMO,D4,2.6,3.3,mi,brun,7.5YR 5/3
+DEMO,D4,3.3,4,mi,brun,7.5YR 5/3
+DEMO,D4,4,4.8,ml,gråbrun,10YR 5/2
+DEMO,D4,4.8,5.1,ds,gråbrun,2.5Y 5/2
+DEMO,D4,5.1,6,ds,gråbrun,2.5Y 5/2
+DEMO,D4,6,6.7,ds,brun,10YR 5/3
+DEMO,D4,6.7,7,ms,grå,10YR 5/1
+DEMO,D4,7,8.54,ms,grå,10YR 5/1
+DEMO,D4a,0,0.6,m,mørk gråbrun,10YR 3/2
+DEMO,D4a,0.6,0.9,ms,mørk gråbrun,10YR 3/2
+DEMO,D4a,0.9,1.8,ds,gulbrun,10YR 5/4
+DEMO,D4a,1.8,3,ml,mørk gulbrun,10YR 4/4
+DEMO,D4a,3,4,ml,brun,10YR 5/3
+DEMO,D4a,4,5.2,ml,brun,10YR 5/3
+DEMO,D4a,5.2,6.2,ml,brun,10YR 5/3
+DEMO,D4a,6.2,7.3,ml,gråbrun,10YR 5/2
+DEMO,D4a,7.3,8.6,ml,gråbrun,2.5Y 5/2
+DEMO,D4a,8.6,9.76,ml,grå,10YR 5/1
+DEMO,D5,0,0.4,m,sort,10YR 2/1
+DEMO,D5,0.4,0.6,m,mørk gråbrun,10YR 3/2
+DEMO,D5,0.6,1.4,ds,brun,10YR 5/3
+DEMO,D5,1.4,3,ml,mørk gulbrun,10YR 4/4
+DEMO,D5,3,4.7,ml,brun,10YR 5/3
+DEMO,D5,4.7,5.4,ml,brun,10YR 5/3
+DEMO,D5,5.4,5.9,ml,mørk grå,10YR 4/1
+DEMO,D5,5.9,6.5,ml,mørk grå,10YR 4/1
+DEMO,D5,6.5,7.2,ml,mørk grå,10YR 4/1
+DEMO,D5,7.2,7.6,ml,mørk grå,10YR 4/1
+DEMO,D5,7.6,8.3,ml,mørk grå,10YR 4/1
+DEMO,D5,8.3,8.8,ml,mørk grå,10YR 4/1
+DEMO,D5,8.8,9.4,ds,gråbrun,2.5Y 5/2
+DEMO,D5,9.4,10.1,ds,gråbrun,2.5Y 5/2
+DEMO,D5,10.1,10.7,ds,grå,5Y 6/1
+DEMO,D5,10.7,11.5,ml,mørk grå,10YR 4/1
+DEMO,D5,11.5,12.1,ml,mørk grå,10YR 4/1
+DEMO,D5,12.1,12.4,ml,mørk grå,10YR 4/1
+DEMO,D5,12.4,12.9,ds,mørk gulbrun,10YR 3/4
+DEMO,D5,12.9,13.7,ds,mørk gråbrun,10YR 4/2
+DEMO,D5,13.7,14.8,ds,mørk gråbrun,10YR 4/3
+DEMO,D5,14.8,15.86,ds,lys gråbrun,10YR 6/3
+DEMO,D6,0,0.8,m,mørk gråbrun,10YR 3/3
+DEMO,D6,0.8,1.8,ml,gulbrun,10YR 5/4
+DEMO,D6,1.8,3.3,ml,gulbrun,10YR 5/4
+DEMO,D6,3.3,4,dg,,
+DEMO,D6,4,5.2,ds,lys gulbrun,10YR 6/4
+DEMO,D6,5.2,6.4,ds,gulbrun,10YR 5/4
+DEMO,D6,6.4,7.5,ds,mørk gulbrun,10YR 4/4
+DEMO,D6,7.5,8.4,ds,lys olivenbrun,2.5Y 5/3
+DEMO,D6,8.4,8.78,ds,olivengrå,5Y 4/2
+DEMO,D6,8.78,9.76,ds,gråbrun,2.5Y 5/2
+DEMO,D6,9.76,13.2,ds,gråbrun,2.5Y 5/2
+DEMO,D7,0,0.6,m,mørk brun,10YR 2/2
+DEMO,D7,0.6,1,ms,brun,10YR 5/3
+DEMO,D7,1,1.3,ml,brun,10YR 5/3
+DEMO,D7,1.3,1.65,ml,gråbrun,10YR 5/2
+DEMO,D7,1.65,1.82,z,,
+DEMO,D7,1.82,3.3,ml,gulbrun,10YR 5/4
+DEMO,D7,3.3,4.1,ds,lys gråbrun,10YR 6/3
+DEMO,D7,4.1,5.2,ds,lys brungrå,10YR 7/2
+DEMO,D7,5.2,6.3,ds,lys gråbrun,10YR 6/3
+DEMO,D7,6.3,7.4,ds,lys gråbrun,10YR 6/3
+DEMO,D7,7.4,8.5,ds,mørk gråbrun,10YR 4/2
+DEMO,D7,8.5,9.7,ds,brun,10YR 5/3
+DEMO,D7,9.7,11,ds,brun,10YR 5/3
+DEMO,D7,11,12.2,ds,brun,10YR 5/3
+LOOP2,P1,0,0.77,x,,
+LOOP2,P1,0.77,0.9,ds,brun,10YR 5/3
+LOOP2,P1,0.9,1.2,ml,gulbrun,10YR 5/4
+LOOP2,P1,1.2,1.9,ml,gulbrun,10YR 5/4
+LOOP2,P1,1.9,2.6,ml,gulbrun,10YR 5/4
+LOOP2,P1,2.6,3.1,ml,gulbrun,10YR 5/4
+LOOP2,P1,3.1,3.7,ml,brun,10YR 5/3
+LOOP2,P1,3.7,4.4,ml,lys gråbrun,10YR 6/3
+LOOP2,P1,4.4,5.5,ml,lys gråbrun,10YR 6/3
+LOOP2,P1,5.5,6.1,ms,lys gråbrun,10YR 6/3
+LOOP2,P1,6.1,6.6,ml,lys gråbrun,10YR 6/3
+LOOP2,P1,6.6,7.2,ms,lys gråbrun,10YR 6/3
+LOOP2,P1,7.2,7.35,ml,lys gråbrun,10YR 6/3
+LOOP2,P1,7.35,7.5,ds,lys brungrå,10YR 6/2
+LOOP2,P1,7.5,8.1,ds,lys brungrå,10YR 6/2
+LOOP2,P1,8.1,9.4,ds,lys brungrå,10YR 6/2
+LOOP2,P1,9.4,10.2,ds,lys brungrå,10YR 6/2
+LOOP2,P1,10.2,10.6,ds,lys brungrå,10YR 6/2
+LOOP2,P1,10.6,10.8,ds,lys gråbrun,10YR 6/3
+LOOP2,P1,10.8,11.8,ds,lys brungrå,10YR 6/2
+LOOP2,P1,11.8,13.13,ds,lys brungrå,10YR 6/2
+LOOP2,P2,0,0.54,x,,
+LOOP2,P2,0.54,0.8,ms,gråbrun,2.5Y 5/2
+LOOP2,P2,0.8,1.4,ms,mørk gulbrun,10YR 4/4
+LOOP2,P2,1.4,1.7,ml,lys olivenbrun,2.5Y 5/3
+LOOP2,P2,1.7,2.2,ds,brun,10YR 5/3
+LOOP2,P2,2.2,2.8,ds,grå,10YR 6/1
+LOOP2,P2,2.8,3.4,ms,grå,10YR 5/1
+LOOP2,P2,3.4,4.3,ms,grå,10YR 5/1
+LOOP2,P2,4.3,5.2,ms,mørk grå,10YR 4/1
+LOOP2,P2,5.2,5.7,ms,grå,10YR 5/1
+LOOP2,P2,5.7,6.5,ds,lys brungrå,10YR 6/2
+LOOP2,P2,6.5,7,ms,grå,10YR 5/1
+LOOP2,P2,7,7.55,ms,grå,10YR 5/1
+LOOP2,P2A,0,0.9,x,,
+LOOP2,P2A,0.9,1.1,ds,gulbrun,10YR 5/4
+LOOP2,P2A,1.1,1.76,ds,gråbrun,10YR 5/2
+LOOP2,P2A,1.76,2.44,x,,
+LOOP2,P2A,2.44,3.4,ds,lys brungrå,10YR 6/2
+LOOP2,P2A,3.4,4.1,ds,grå,10YR 6/1
+LOOP2,P2A,4.1,4.84,ms,grå,10YR 5/1
+LOOP2,P2A,4.84,4.88,x,,
+LOOP2,P2A,4.88,5.7,ms,grå,10YR 5/1
+LOOP2,P2A,5.7,6.69,ms,grå,10YR 5/1
+LOOP2,P2A,6.69,6.89,x,,
+LOOP2,P2A,6.89,8.1,ms,grå,10YR 5/1
+LOOP2,P2A,8.1,9.2,ms,gråbrun,10YR 5/2
+LOOP2,P2A,9.2,9.53,ms,gråbrun,10YR 5/2
+LOOP2,P2A,9.53,14,x,,
+LOOP2,P2A,14,14.83,ds,lys brungrå,10YR 6/2
+LOOP2,P3,0,0.92,x,,
+LOOP2,P3,0.92,1.1,ds,lys olivenbrun,2.5Y 5/6
+LOOP2,P3,1.1,1.5,ds,lys gulbrun,10YR 6/4
+LOOP2,P3,1.5,2.2,ds,gulbrun,10YR 5/4
+LOOP2,P3,2.2,2.8,ds,lys gulbrun,10YR 6/4
+LOOP2,P3,2.8,3.8,ds,lys grå,10YR 7/1
+LOOP2,P3,3.8,4.7,ds,lys brungrå,10YR 6/2
+LOOP2,P3,4.7,4.9,mi,grå,2.5Y 6/1
+LOOP2,P3,4.9,5.2,ms,grå,2.5Y 6/1
+LOOP2,P3,5.2,5.6,ms,grå,2.5Y 6/1
+LOOP2,P3,5.6,5.9,ms,grå,2.5Y 5/1
+LOOP2,P3,5.9,6.1,ms,grå,2.5Y 5/1
+LOOP2,P4,0,0.39,x,,
+LOOP2,P4,0.39,0.6,m,sort,10YR 2/1
+LOOP2,P4,0.6,1,ds,mørkbrun,7.5YR 3/4
+LOOP2,P4,1,2.5,ds,gulbrun,10YR 5/4
+LOOP2,P4,2.5,3,di,gulbrun,10YR 5/4
+LOOP2,P4,3,3.5,di,brun,10YR 5/3
+LOOP2,P4,3.5,4.1,ds,lys brungrå,10YR 6/2
+LOOP2,P4,4.1,4.7,ds,lys brungrå,10YR 6/2
+LOOP2,P4,4.7,5.3,ds,lys gråbrun,10YR 6/3
+LOOP2,P4,5.3,6.2,ds,lys gråbrun,10YR 6/3
+LOOP2,P4,6.2,7.2,ds,lys gråbrun,10YR 6/3
+LOOP2,P4,7.2,8.1,ds,brun,10YR 5/3
+LOOP2,P4,8.1,8.5,ds,brun,10YR 5/3
+LOOP2,P4,8.5,9.2,ds,brun,10YR 5/3
+LOOP2,P4,9.2,9.9,ds,brun,10YR 5/3
+LOOP2,P4,9.9,10.6,ds,brun,10YR 5/3
+LOOP2,P4,10.6,10.98,ds,lys gråbrun,10YR 6/3
+LOOP2,P4,10.98,15.23,x,,
+LOOP2,P4,15.23,16.2,ms,brun,10YR 5/3
+LOOP2,P4,16.2,17.7,ml,gråbrun,10YR 5/2
+LOOP2,P4,17.7,18.3,ml,grå,10YR 5/1
+LOOP2,P5,0,0.49,x,,
+LOOP2,P5,0.49,0.6,ft,mørk gråbrun,10YR 3/2
+LOOP2,P5,0.6,1.1,dg,gråbrun,10YR 5/2
+LOOP2,P5,1.1,2.1,dg,brun,10YR 5/3
+LOOP2,P5,2.1,3.1,dv,lys brungrå,10YR 6/2
+LOOP2,P5,3.1,3.5,ds,gulbrun,10YR 5/4
+LOOP2,P5,3.5,4,mi,lys brungrå,10YR 6/2
+LOOP2,P5,4,4.5,mi,lys brungrå,10YR 6/2
+LOOP2,P5,4.5,4.9,ml,lys brungrå,10YR 6/2
+LOOP2,P5,4.9,5.2,mi,lys brungrå,10YR 6/2
+LOOP2,P5,5.2,5.7,mi,lys brungrå,10YR 6/2
+LOOP2,P5,5.7,6.2,ml,lys brungrå,10YR 6/2
+LOOP2,P5,6.2,6.37,ds,brun,10YR 5/3
+LOOP2,P6,0,0.65,x,,
+LOOP2,P6,0.65,1,ft,sort,10YR 2/1
+LOOP2,P6,1,1.4,ft,sort,10YR 2/1
+LOOP2,P6,1.4,1.7,ft,sort,10YR 2/1
+LOOP2,P6,1.7,2,fp,grå,2.5Y 5/1
+LOOP2,P6,2,2.8,fp,mørk olivengrå,5Y 3/2
+LOOP2,P6,2.8,3.5,fp,mørk olivengrå,5Y 3/2
+LOOP2,P6,3.5,3.7,fp,olivengrå,5Y 5/2
+LOOP2,P6,3.7,4.2,fp,grå,5Y 5/1
+LOOP2,P6,4.2,5.1,fi,grå,5Y 6/1
+LOOP2,P6,5.1,5.9,ds,grå,2.5Y 6/1
+LOOP2,P6,5.9,6.4,ds,grå,2.5Y 6/1
+LOOP2,P6,6.4,6.9,ds,grå,2.5Y 6/1
+LOOP2,P6,6.9,7.5,ds,grå,2.5Y 6/1
+LOOP2,P6,7.5,8.2,ds,grå,2.5Y 6/1
+LOOP2,P6,8.2,8.8,ds,grå,2.5Y 6/1
+LOOP2,P6,8.8,9.4,ds,grå,2.5Y 6/1
+LOOP2,P6,9.4,9.76,ds,grå,2.5Y 6/1
+LOOP2,P7,0,0.84,x,,
+LOOP2,P7,0.84,1,m,mørk gråbrun,10YR 3/2
+LOOP2,P7,1,1.22,ds,mørk gulbrun,10YR 4/4
+LOOP2,P7,1.22,1.5,ml,brun,10YR 5/3
+LOOP2,P7,1.5,2.1,ml,brun,10YR 5/3
+LOOP2,P7,2.1,2.7,ms,brun,10YR 5/3
+LOOP2,P7,2.7,3.3,ms,brun,10YR 5/3
+LOOP2,P7,3.3,4,ms,lys gråbrun,10YR 6/3
+LOOP2,P7,4,4.7,ms,lys gråbrun,10YR 6/3
+LOOP2,P7,4.7,5.2,ml,lys gråbrun,10YR 6/3
+LOOP2,P7,5.2,5.48,ml,lys gråbrun,10YR 6/3
+LOOP2,P8,0,0.49,x,,
+LOOP2,P8,0.49,0.65,ds,brun,10YR 5/3
+LOOP2,P8,0.65,1.5,ml,lys gråbrun,10YR 6/3
+LOOP2,P8,1.5,3,ms,brun,10YR 5/3
+LOOP2,P8,3,3.9,ms,brun,10YR 5/3
+LOOP2,P8,3.9,4.5,ms,lys gråbrun,10YR 6/3
+LOOP2,P8,4.5,5.1,ds,lys gråbrun,10YR 6/3
+LOOP2,P8,5.1,5.38,ds,lys brungrå,10YR 6/2
+LOOP2,P9,0,0.8,x,,
+LOOP2,P9,0.8,1,m,mørk gråbrun,10YR 3/3
+LOOP2,P9,1,1.3,ms,lys olivenbrun,2.5Y 5/4
+LOOP2,P9,1.3,2,ms,lys olivenbrun,2.5Y 5/4
+LOOP2,P9,2,2.8,ms,lys brunsort,2.5Y 6/2
+LOOP2,P9,2.8,3.6,ms,brun,10YR 5/3
+LOOP2,P9,3.6,3.66,di,lys gråbrun,10YR 6/3
+LOOP2,P9,3.66,3.97,x,,
+LOOP2,P9,3.97,5.1,ml,grå,10YR 6/1
+LOOP2,P9,5.1,5.7,ml,grå,10YR 6/1
+LOOP2,P9,5.7,6.5,ml,grå,10YR 5/1
+LOOP2,P9,6.5,7,ml,grå,10YR 5/1
+LOOP2,P9,7,7.6,ds,brun,10YR 5/3
+LOOP2,P9,7.6,8,ds,lys brungrå,10YR 6/2
+LOOP2,P9,8,8.5,ml,grå,10YR 5/1
+LOOP2,P9,8.5,9.2,ml,grå,10YR 5/1
+LOOP2,P9,9.2,9.8,ml,grå,10YR 5/1
+LOOP2,P9,9.8,10.2,ml,grå,10YR 5/1
+LOOP2,P9,10.2,10.7,ml,grå,10YR 5/1
+LOOP2,P9,10.7,11.1,ml,grå,10YR 5/1
+LOOP2,P9,11.1,11.25,ml,lys brungrå,10YR 6/2
+LOOP3,P1,0,0.41,m,mørk grå,5Y 4/1
+LOOP3,P1,0.41,0.63,ml,mørk gulbrun,10YR 4/4
+LOOP3,P1,0.63,1.5,ml,mørk gulbrun,10YR 4/4
+LOOP3,P1,1.5,2.1,ml,mørk gulbrun,10YR 4/4
+LOOP3,P1,2.1,2.6,ml,gulbrun,10YR 5/4
+LOOP3,P1,2.6,3.1,ml,gulbrun,10YR 5/4
+LOOP3,P1,3.1,3.8,ml,brun,10YR 5/3
+LOOP3,P1,3.8,4.4,ml,mørk gråbrun,2.5Y 4/2
+LOOP3,P1,4.4,5.2,ml,mørk gråbrun,2.5Y 4/2
+LOOP3,P1,5.2,5.7,ml,mørk gråbrun,2.5Y 4/2
+LOOP3,P1,5.7,6.5,ml,mørk gråbrun,2.5Y 4/2
+LOOP3,P1,6.5,7.4,ml,mørk grå,2.5Y 4/1
+LOOP3,P1,7.4,8,ds,grå,10YR 5/1
+LOOP3,P1,8,8.44,ds,mørk gråbrun,10YR 3/2
+LOOP3,P2,0,0.37,m,mørk gråbrun,10YR 4/2
+LOOP3,P2,0.37,0.68,ml,mørk gulbrun,10YR 4/4
+LOOP3,P2,0.68,1.4,ml,brun,10YR 5/3
+LOOP3,P2,1.4,1.8,ml,gulbrun,10YR 5/4
+LOOP3,P2,1.8,2.2,ml,gulbrun,10YR 5/4
+LOOP3,P2,2.2,2.7,ml,gulbrun,10YR 5/4
+LOOP3,P2,2.7,3.2,ml,gulbrun,10YR 5/4
+LOOP3,P2,3.2,3.9,ml,gulbrun,10YR 5/4
+LOOP3,P2,3.9,4.7,ml,mørk grå,2.5Y 4/1
+LOOP3,P2,4.7,5.2,ml,mørk grå,2.5Y 4/1
+LOOP3,P2,5.2,5.6,ml,mørk grå,2.5Y 4/1
+LOOP3,P2,5.6,6,ml,mørk grå,2.5Y 4/1
+LOOP3,P2,6,6.4,ml,mørk grå,2.5Y 4/1
+LOOP3,P2,6.4,6.9,ml,mørk grå,2.5Y 4/1
+LOOP3,P2,6.9,7.3,ml,mørk grå,2.5Y 4/1
+LOOP3,P2,7.3,7.7,ml,mørk gråbrun,2.5Y 3/2
+LOOP3,P2,7.7,8.1,ml,mørk gråbrun,2.5Y 3/2
+LOOP3,P2,8.1,8.5,ml,mørk gråbrun,2.5Y 3/2
+LOOP3,P2,8.5,8.9,ml,sortbrun,2.5Y 3/1
+LOOP3,P2,8.9,9.3,ml,mørk gråbrun,2.5Y 3/2
+LOOP3,P2,9.3,9.7,ml,mørk gråbrun,2.5Y 3/2
+LOOP3,P2,9.7,10.2,ml,mørk gråbrun,2.5Y 3/2
+LOOP3,P2,10.2,10.6,ml,mørk gråbrun,2.5Y 3/2
+LOOP3,P2,10.6,10.9,ml,mørk gråbrun,2.5Y 3/2
+LOOP3,P2,10.9,11.2,ml,mørk grå,2.5Y 4/1
+LOOP3,P2,11.2,11.6,ml,mørk grå,2.5Y 4/1
+LOOP3,P2,11.6,12.2,ml,mørk grå,2.5Y 4/1
+LOOP3,P3,0,0.33,m,mørk gråbrun,10YR 3/2
+LOOP3,P3,0.33,0.8,ml,gulbrun,10YR 5/6
+LOOP3,P3,0.8,1.3,ml,gulbrun,10YR 5/4
+LOOP3,P3,1.3,1.8,ml,brun,10YR 5/3
+LOOP3,P3,1.8,2.3,ml,brun,10YR 5/3
+LOOP3,P3,2.3,2.9,ml,brun,10YR 5/3
+LOOP3,P3,2.9,3.6,ml,brun,10YR 5/3
+LOOP3,P3,3.6,3.9,ml,brun,10YR 5/3
+LOOP3,P3,3.9,4.3,ml,brun,10YR 5/3
+LOOP3,P3,4.3,4.9,ml,mørk gråbrun,2.5Y 4/2
+LOOP3,P3,4.9,5.6,ml,mørk grå,2.5Y 4/1
+LOOP3,P3,5.6,6.1,ml,mørk grå,2.5Y 4/1
+LOOP3,P3,6.1,7.32,x,,
+LOOP3,P3,7.32,7.6,dl,gråbrun,2.5Y 5/2
+LOOP3,P3,7.6,8.2,ds,lys brungrå,10YR 7/2
+LOOP3,P3,8.2,8.7,ds,lys gråbrun,10YR 7/3
+LOOP3,P3,8.7,9.4,ds,lys brungrå,10YR 6/2
+LOOP3,P3,9.4,9.9,ds,lys brungrå,10YR 6/2
+LOOP3,P3,9.9,10.34,ds,lys gråbrun,10YR 6/3
+LOOP3,P3,10.34,10.8,ds,lys gråbrun,10YR 6/3
+LOOP3,P3,10.8,11.3,ds,lys gråbrun,10YR 6/3
+LOOP3,P3,11.3,11.9,ds,lys gråbrun,10YR 6/3
+LOOP3,P3,11.9,12.5,di,lys gulbrun,10YR 6/4
+LOOP3,P3,12.5,13.1,dg,gulbrun,10YR 5/4
+LOOP3,P3,13.1,13.8,ds,lys gråbrun,10YR 6/3
+LOOP3,P3,13.8,14.4,ds,brun,10YR 5/3
+LOOP3,P3,14.4,15,ds,brun,10YR 5/3
+LOOP3,P3,15,15.7,ds,lys gråbrun,10YR 6/3
+LOOP3,P3,15.7,16.1,ds,lys gråbrun,10YR 6/3
+LOOP3,P3,16.1,16.8,ds,lys gråbrun,10YR 6/3
+LOOP3,P3,16.8,17.4,ds,lys gråbrun,10YR 6/3
+LOOP3,P3,17.4,18,ds,lys gråbrun,10YR 6/3
+LOOP3,P3,18,18.3,ds,lys gråbrun,10YR 6/3
+LOOP3,P3A,0,0.14,m,mørk gråbrun,10YR 4/3
+LOOP3,P3A,0.14,0.45,ms,mørk grå,2.5Y 4/1
+LOOP3,P3A,0.45,0.92,ml,mørk gulbrun,10YR 4/4
+LOOP3,P3A,0.92,1.5,ml,mørk gulbrun,10YR 4/4
+LOOP3,P3A,1.5,2,ml,mørk gulbrun,10YR 4/4
+LOOP3,P3A,2,2.9,ml,brun,10YR 5/3
+LOOP3,P3A,2.9,3.8,ml,brun,10YR 5/3
+LOOP3,P3A,3.8,4.2,ml,brun,10YR 5/3
+LOOP3,P3A,4.2,5.1,ds,lys gråbrun,10YR 6/3
+LOOP3,P3A,5.1,6.5,ds,gulbrun,10YR 5/4
+LOOP3,P3A,6.5,7.11,ds,gulbrun,10YR 5/4
+LOOP3,P3A,7.11,18.3,x,,
+LOOP3,P4,0,0.35,m,mørk grå,10YR 4/1
+LOOP3,P4,0.35,0.8,ml,mørk gulbrun,10YR 4/4
+LOOP3,P4,0.8,1.22,ml,gulbrun,10YR 5/4
+LOOP3,P4,1.22,1.4,ml,gulbrun,10YR 5/4
+LOOP3,P4,1.4,1.8,dl,mørk gulbrun,10YR 4/6
+LOOP3,P4,1.8,2.3,dl,mørk gulbrun,10YR 4/6
+LOOP3,P4,2.3,2.7,di,lys olivenbrun,2.5Y 5/4
+LOOP3,P4,2.7,3.3,di,lys olivenbrun,2.5Y 5/4
+LOOP3,P4,3.3,3.8,di,lys olivenbrun,2.5Y 5/3
+LOOP3,P4,3.8,4,di,lys gråbrun,10YR 6/3
+LOOP3,P4,4,4.4,di,brun,10YR 5/3
+LOOP3,P4,4.4,4.9,di,gråbrun,10YR 5/2
+LOOP3,P4,4.9,5.3,di,grå,10YR 5/1
+LOOP3,P4,5.3,6,di,grå,10YR 5/1
+LOOP3,P4,6,6.6,dl,grå,10YR 5/1
+LOOP3,P4,6.6,7,dl,grå,10YR 5/1
+LOOP3,P4,7,7.32,dl,grå,10YR 5/1
+LOOP3,P5,0,0.52,m,mørk gråbrun,10YR 3/3
+LOOP3,P5,0.52,1,m,mørk gråbrun,10YR 3/3
+LOOP3,P5,1,1.22,ds,gulbrun,10YR 5/4
+LOOP3,P5,1.22,2.07,dg,mørk gulbrun,10YR 4/4
+LOOP3,P5,2.07,2.9,ds,mørk gulbrun,10YR 4/4
+LOOP3,P5,2.9,3.6,dg,mørk gråbrun,10YR 3/3
+LOOP3,P5,3.6,3.66,dg,mørk gulbrun,10YR 4/4
+LOOP3,P5,3.66,4.31,x,,
+LOOP3,P5,4.31,5.6,ds,mørk gulbrun,10YR 4/4
+LOOP3,P5,5.6,6.2,ds,gulbrun,10YR 5/4
+LOOP3,P5,6.2,6.8,ds,gulbrun,10YR 5/4
+LOOP3,P5,6.8,7.5,ds,gulbrun,10YR 5/4
+LOOP3,P5,7.5,7.8,ml,mørk grå,10YR 4/1
+LOOP3,P5,7.8,8.2,ml,grå,10YR 5/1
+LOOP3,P5,8.2,8.7,ds,sortgrå,10YR 3/1
+LOOP3,P5,8.7,9.1,ms,mørk grå,10YR 4/1
+LOOP3,P5,9.1,9.5,ms,grå,10YR 5/1
+LOOP3,P5,9.5,9.9,ms,mørk grå,10YR 4/1
+LOOP3,P5,9.9,10.2,dl,grå,10YR 5/1
+LOOP3,P5,10.2,10.7,dl,grå,10YR 5/1
+LOOP3,P5,10.7,10.98,dl,grå,10YR 5/1
+LOOP3,P6,0,0.76,m,mørk gråbrun,10YR 3/2
+LOOP3,P6,0.76,1.2,fp,mørk gråbrun,10YR 3/3
+LOOP3,P6,1.2,2,ms,gråbrun,10YR 5/2
+LOOP3,P6,2,2.8,ds,mørk gråbrun,10YR 4/2
+LOOP3,P6,2.8,3.5,di,olivenbrun,2.5Y 4/3
+LOOP3,P6,3.5,4.5,ds,lys brungrå,10YR 6/2
+LOOP3,P6,4.5,5,ds,grå,10YR 6/1
+LOOP3,P6,5,5.4,ds,lys brungrå,10YR 6/2
+LOOP3,P6,5.4,6.1,ds,lys brungrå,10YR 6/2
+LOOP3,P8,0,0.47,m,mørk gråbrun,10YR 3/3
+LOOP3,P8,0.47,0.85,ms,mørk gulbrun,10YR 4/4
+LOOP3,P8,0.85,1.22,ml,mørk gulbrun,10YR 4/4
+LOOP3,P8,1.22,1.7,ml,mørk gulbrun,10YR 4/4
+LOOP3,P8,1.7,2.3,ml,gulbrun,10YR 5/4
+LOOP3,P8,2.3,3.1,ml,gulbrun,10YR 5/4
+LOOP3,P8,3.1,3.5,ms,gulbrun,10YR 5/4
+LOOP3,P8,3.5,4.1,ms,gulbrun,10YR 5/4
+LOOP3,P8,4.1,5,ds,lys gulbrun,10YR 6/4
+LOOP3,P8,5,5.6,ds,gulbrun,10YR 5/4
+LOOP3,P8,5.6,6.2,di,brun,10YR 5/3
+LOOP3,P8,6.2,6.8,ds,lys gulbrun,10YR 6/4
+LOOP3,P8,6.8,6.99,ds,gulbrun,10YR 5/4
+LOOP3,P8,6.99,8.13,ds,brun,10YR 5/3
+LOOP3,P8,8.13,9.76,ds,gulbrun,10YR 5/4
+LOOP3,P8,9.76,10.22,x,,
+LOOP3,P8,10.22,11.32,gs,mørkbrun,10YR 2/2
+LOOP3,P8,11.32,12.2,gi,sortgrå,10YR 3/1
+LOOP4,GeoW-2,0,0.49,m,mørkbrun,10YR 2/2
+LOOP4,GeoW-2,0.49,0.91,m,mørk gråbrun,10YR 4/2
+LOOP4,GeoW-2,0.91,1.5,ml,mørk gulbrun,10YR 4/4
+LOOP4,GeoW-2,1.5,2.2,ml,mørk gulbrun,10YR 4/4
+LOOP4,GeoW-2,2.2,2.5,ml,lys gråbrun,10YR 6/3
+LOOP4,GeoW-2,2.5,2.8,mi,lys gråbrun,10YR 6/3
+LOOP4,GeoW-2,2.8,3.4,di,lys gråbrun,10YR 6/3
+LOOP4,GeoW-2,3.4,3.8,ds,gulbrun,10YR 5/4
+LOOP4,GeoW-2,3.8,4.2,ml,lys gråbrun,10YR 6/3
+LOOP4,GeoW-2,4.2,4.6,ml,lys brungrå,10YR 6/2
+LOOP4,GeoW-2,4.6,5.1,ml,gråbrun,2.5Y 5/2
+LOOP4,GeoW-2,5.1,5.5,ml,mørk grøngrå,GLEY1 4/1
+LOOP4,GeoW-2,5.5,5.9,ml,mørk grøngrå,GLEY1 4/1
+LOOP4,GeoW-2,5.9,6.1,ml,mørk grøngrå,GLEY1 4/1
+LOOP4,IS-1,0,0.3,m,mørk gråbrun,10YR 4/2
+LOOP4,IS-1,0.3,0.7,ml,mørk gråbrun,10YR 4/3
+LOOP4,IS-1,0.7,1,ml,mørk gulbrun,10YR 4/4
+LOOP4,IS-1,1,1.4,ml,mørk gulbrun,10YR 4/4
+LOOP4,IS-1,1.4,1.8,ml,gulbrun,10YR 5/4
+LOOP4,IS-1,1.8,2.3,ml,brun,10YR 5/3
+LOOP4,IS-1,2.3,2.9,ml,gulbrun,10YR 5/4
+LOOP4,IS-1,2.9,3.5,ml,brun,10YR 5/3
+LOOP4,IS-1,3.5,3.7,s,lys grågul,2.5Y 7/3
+LOOP4,IS-1,3.7,4.2,s,lys grågul,2.5Y 7/3
+LOOP4,IS-1,4.2,4.7,s,lys grågul,2.5Y 7/4
+LOOP4,IS-1,4.7,5.4,s,lys gulgrå,2.5Y 7/2
+LOOP4,IS-1,5.4,6,s,lys gulgrå,2.5Y 7/2
+LOOP4,IS-1,6,6.1,s,lys gulgrå,2.5Y 7/2
+LOOP4,IS-2,0,0.3,m,mørk gråbrun,10YR 4/2
+LOOP4,IS-2,0.3,1.7,ml,gulbrun,10YR 5/4
+LOOP4,IS-2,1.7,2.3,ml,mørk gulbrun,10YR 4/4
+LOOP4,IS-2,2.3,2.8,ml,gulbrun,10YR 5/4
+LOOP4,IS-2,2.8,3.4,ml,lys gråbrun,10YR 6/3
+LOOP4,IS-2,3.4,4.2,ml,lys gråbrun,10YR 6/3
+LOOP4,IS-2,4.2,4.3,ml,lys gråbrun,10YR 6/3
+LOOP4,IS-2,4.3,5.7,ml,mørk grå,2.5Y 4/1
+LOOP4,IS-2,5.7,6.3,ml,mørk grå,2.5Y 4/1
+LOOP4,IS-2,6.3,6.7,s,lys gulgrå,2.5Y 7/2
+LOOP4,IS-2,6.7,7.3,s,lys gulgrå,2.5Y 7/2
+LOOP4,IS-2,7.3,8,s,lys gulgrå,2.5Y 7/2
+LOOP4,IS-2,8,8.34,s,lys gulgrå,2.5Y 7/2
+LOOP4,MS-1,0,0.5,m,mørk gråbrun,10YR 4/2
+LOOP4,MS-1,0.5,1.1,m,mørk gråbrun,10YR 4/2
+LOOP4,MS-1,1.1,1.7,m,mørk gråbrun,10YR 3/2
+LOOP4,MS-1,1.7,2.3,ml,gråbrun,2.5Y 5/2
+LOOP4,MS-1,2.3,2.8,ds,brun,10YR 5/3
+LOOP4,MS-1,2.8,3.4,ds,gulbrun,10YR 5/4
+LOOP4,MS-1,3.4,4,ds,grå,10YR 5/1
+LOOP4,MS-1,4,4.6,ds,grå,10YR 5/1
+LOOP4,MS-1,4.6,5.3,ds,grå,10YR 5/1
+LOOP4,MS-1,5.3,6.4,ds,lys brungrå,10YR 6/2
+LOOP4,MS-1,6.4,7.5,ds,lys brungrå,10YR 6/2
+LOOP4,MS-1,7.5,7.9,ds,lys brungrå,10YR 6/2
+LOOP4,MS-1,7.9,8.3,ds,lys gråbrun,10YR 6/3
+LOOP4,MS-1,8.3,9.3,ds,grå,2.5Y 5/1
+LOOP4,MS-1,9.3,11.1,ds,grå,2.5Y 6/1
+LOOP4,MS-1,11.1,11.8,ds,grå,2.5Y 5/1
+LOOP4,MS-1,11.8,12.2,di,grå,5Y 5/1
+LOOP4,MS-2,0,0.34,m,mørk gråbrun,10YR 4/2
+LOOP4,MS-2,0.34,0.62,dl,brun,10YR 5/3
+LOOP4,MS-2,0.62,1,dl,gulbrun,10YR 5/4
+LOOP4,MS-2,1,1.7,ml,gulbrun,10YR 5/4
+LOOP4,MS-2,1.7,2.3,ml,gulbrun,10YR 5/4
+LOOP4,MS-2,2.3,2.8,ml,lys gråbrun,10YR 6/3
+LOOP4,MS-2,2.8,3.36,ml,lys gråbrun,10YR 6/3
+LOOP4,MS-2,3.36,3.5,ds,lys gulbrun,2.5Y 6/3
+LOOP4,MS-2,3.5,3.8,ds,lys gulbrun,2.5Y 6/4
+LOOP4,MS-2,3.8,4,ds,lys brunsort,2.5Y 6/2
+LOOP4,MS-2,4,4.5,ds,lys brunsort,2.5Y 6/2
+LOOP4,MS-2,4.5,5.4,ds,lys gulbrun,2.5Y 6/3
+LOOP4,MS-2,5.4,6,ds,gulbrun,10YR 5/8
+LOOP4,MS-2,6,6.4,ds,lys gråbrun,10YR 6/3
+LOOP4,MS-2,6.4,6.67,dg,gulbrun,10YR 5/6
+LOOP4,MS-2,6.67,7.14,dg,gulbrun,10YR 5/4
+LOOP4,MS-2,7.14,7.4,di,grå,2.5Y 5/1
+LOOP4,MS-2,7.4,7.6,ml,mørk grå,5Y 4/1
+LOOP4,MS-2,7.6,8.1,ml,lys olivenbrun,2.5Y 5/3
+LOOP4,MS-2,8.1,8.6,ds,lys brunsort,2.5Y 6/2
+LOOP4,MS-2,8.6,8.8,ds,lys gråbrun,10YR 6/3
+LOOP4,MS-2,8.8,9.2,di,lys olivenbrun,2.5Y 5/4
+LOOP4,MS-2,9.2,9.5,ds,mørk gulbrun,10YR 4/4
+LOOP4,MS-2,9.5,9.6,ds,lys gråbrun,10YR 6/3
+LOOP4,MS-2,9.6,10.1,ds,lys brunsort,2.5Y 6/2
+LOOP4,MS-2,10.1,10.7,ds,grå,10YR 5/1
+LOOP4,MS-2,10.7,10.98,ds,grå,10YR 5/1
+LOOP4,TL-1,0,0.43,m,sortgrå,10YR 3/1
+LOOP4,TL-1,0.43,0.65,ml,brun,7.5YR 5/3
+LOOP4,TL-1,0.65,1.6,ml,brun,10YR 5/3
+LOOP4,TL-1,1.6,2.2,ml,brun,10YR 5/3
+LOOP4,TL-1,2.2,2.8,ml,gråbrun,10YR 5/2
+LOOP4,TL-1,2.8,3.4,ml,brun,10YR 5/3
+LOOP4,TL-1,3.4,4,ml,brun,10YR 5/3
+LOOP4,TL-1,4,4.6,ml,lys gråbrun,10YR 6/3
+LOOP4,TL-1,4.6,5,ml,brun,10YR 5/3
+LOOP4,TL-1,5,5.6,mg,gulbrun,10YR 5/6
+LOOP4,TL-1,5.6,6.7,ds,lys olivenbrun,2.5Y 5/4
+LOOP4,TL-1,6.7,7.9,ds,gråbrun,2.5Y 5/2
+LOOP4,TL-1,7.9,9.1,di,grå,5Y 5/1
+LOOP4,TL-1,9.1,9.76,dg,grå,10YR 5/1
+LOOP4,TL-2,0,0.49,m,mørk gråbrun,10YR 3/2
+LOOP4,TL-2,0.49,0.79,ml,brun,10YR 5/3
+LOOP4,TL-2,0.79,0.95,ml,gråbrun,2.5Y 5/2
+LOOP4,TL-2,0.95,1.22,ml,brun,10YR 5/3
+LOOP4,TL-2,1.22,1.95,ml,brun,10YR 5/3
+LOOP4,TL-2,1.95,2.44,ml,brun,10YR 5/3
+LOOP4,TL-2,2.44,2.82,ml,gråbrun,10YR 5/2
+LOOP4,TL-2,2.82,3.17,ml,gråbrun,2.5Y 5/2
+LOOP4,TL-2,3.17,3.66,ml,grå,10YR 5/1
+LOOP4,TL-2,3.66,3.74,ml,grå,10YR 5/1
+LOOP4,TL-2,3.74,4.39,ml,grå,2.5Y 5/1
+LOOP4,TL-2,4.39,4.88,ml,grå,2.5Y 5/1
+LOOP4,TL-2,4.88,5.01,ml,grå,2.5Y 5/1
+LOOP4,TL-2,5.01,5.61,ml,grå,2.5Y 5/1
+LOOP4,TL-2,5.61,6.1,ml,grå,2.5Y 5/1
+LOOP6,P1,0,0.32,m,mørk gråbrun,10YR 3/2
+LOOP6,P1,0.32,0.76,dg,brun,10YR 5/3
+LOOP6,P1,0.76,1.5,ds,gråbrun,10YR 5/2
+LOOP6,P1,1.5,2.44,ds,gråbrun,10YR 5/2
+LOOP6,P1,2.44,4.88,x,,
+LOOP6,P1,4.88,6.1,ds,gråbrun,2.5Y 5/2
+LOOP6,P2,0,0.68,m,mørkbrun,10YR 2/2
+LOOP6,P2,0.68,1.5,ds,mørk gulbrun,10YR 3/4
+LOOP6,P2,1.5,2.6,ds,brun,7.5YR 4/3
+LOOP6,P2,2.6,3.8,ds,mørk grå,2.5Y 4/1
+LOOP6,P2,3.8,4.88,ds,mørk grå,2.5Y 4/1
+LOOP6,P2A,0,0.6,m,mørkbrun,10YR 2/2
+LOOP6,P2A,0.6,1.22,ds,brun,7.5YR 4/3
+LOOP6,P2A,1.22,4.88,x,,
+LOOP6,P3,0,0.55,m,sortbrun,7.5YR 2.5/2
+LOOP6,P3,0.55,0.78,ds,lys gråbrun,10YR 6/3
+LOOP6,P3,0.78,1.4,ds,brun,7.5YR 4/3
+LOOP6,P3,1.4,1.9,ds,mørk gulbrun,10YR 4/4
+LOOP6,P3,1.9,2.7,ds,brun,10YR 5/3
+LOOP6,P3,2.7,3.9,ds,mørk gråbrun,10YR 4/3
+LOOP6,P3,3.9,5.5,ds,brun,7.5YR 5/3
+LOOP6,P3,5.5,6.65,ds,gråbrun,10YR 5/2
+LOOP6,P3,6.65,7,di,brun,10YR 5/3
+LOOP6,P3,7,7.4,dg,brun,7.5YR 4/3
+LOOP6,P3,7.4,8.1,ds,sort,10YR 2/1
+LOOP6,P3,8.1,8.8,ms,grå,5Y 5/1
+LOOP6,P3,8.8,9,ms,grå,5Y 5/1
+LOOP6,P3,9,9.5,ml,mørk grå,5Y 4/1
+LOOP6,P3,9.5,9.76,ml,mørk grå,5Y 4/1
+LOOP6,P4,0,0.32,m,mørkbrun,10YR 2/2
+LOOP6,P4,0.32,0.84,ms,mørk gulbrun,10YR 4/4
+LOOP6,P4,0.84,1.4,ms,gulbrun,10YR 5/4
+LOOP6,P4,1.4,1.9,ml,lys brunsort,2.5Y 6/2
+LOOP6,P4,1.9,2.5,ml,gulbrun,10YR 5/4
+LOOP6,P4,2.5,3.1,ms,mørk gulbrun,10YR 4/4
+LOOP6,P4,3.1,3.8,ms,gulbrun,10YR 5/4
+LOOP6,P4,3.8,4.3,ml,brun,10YR 5/3
+LOOP6,P4,4.3,5,ml,brun,10YR 5/3
+LOOP6,P4,5,5.6,ml,brun,10YR 5/3
+LOOP6,P4,5.6,6,ml,gulbrun,10YR 5/4
+LOOP6,P4,6,6.2,ml,mørk grå,5Y 4/1
+LOOP6,P4,6.2,6.7,ml,mørk grå,5Y 4/1
+LOOP6,P4,6.7,7.32,ml,mørk grå,5Y 4/1
+LOOP6,P5,0,0.37,m,sortgrå,10YR 3/1
+LOOP6,P5,0.37,1,ds,gulbrun,10YR 5/4
+LOOP6,P5,1,1.5,ds,gulbrun,10YR 5/4
+LOOP6,P5,1.5,2,ds,gulbrun,10YR 5/6
+LOOP6,P5,2,2.5,ds,gulbrun,10YR 5/6
+LOOP6,P5,2.5,3.1,ds,lys gulbrun,10YR 6/4
+LOOP6,P5,3.1,3.8,ds,lys gulbrun,10YR 6/4
+LOOP6,P5,3.8,4.5,ds,lys gulbrun,10YR 6/4
+LOOP6,P5,4.5,5,ds,lys gråbrun,10YR 7/4
+LOOP6,P5,5,5.6,ds,lys gråbrun,10YR 7/4
+LOOP6,P5,5.6,6.1,ds,lys gråbrun,10YR 7/4
+LOOP6,P5,6.1,6.6,ds,lys gråbrun,10YR 6/3
+LOOP6,P5,6.6,7,ds,rødbrun,5YR 4/4
+LOOP6,P5,7,7.3,ds,mørk gulbrun,10YR 4/6
+LOOP6,P5,7.3,8.2,ds,lys brungrå,10YR 7/2
+LOOP6,P5,8.2,9.9,s,grå,2.5Y 6/1
+LOOP6,P5,9.9,10.98,s,grå,2.5Y 6/1
+LOOP6,P6,0,0.57,m,mørk gråbrun,10YR 3/2
+LOOP6,P6,0.57,0.8,ds,mørkbrun,7.5YR 3/4
+LOOP6,P6,0.8,1.4,dg,mørk gulbrun,10YR 4/4
+LOOP6,P6,1.4,2,dg,brun,10YR 5/3
+LOOP6,P6,2,2.7,ds,lys brunsort,2.5Y 6/2
+LOOP6,P6,2.7,3.7,ds,lys brungrå,10YR 6/2
+LOOP6,P6,3.7,4.69,ds,gulbrun,10YR 5/4
+LOOP6,P6,4.69,5.63,ds,gråbrun,10YR 5/2
+LOOP6,P6,5.63,5.97,ds,mørk gråbrun,10YR 3/3
+LOOP6,P6,5.97,6.8,ds,grå,2.5Y 5/1
+LOOP6,P6,6.8,7.4,ml,mørk grå,2.5Y 4/1
+LOOP6,P6,7.4,8,ml,mørk grå,2.5Y 4/1
+LOOP6,P6,8,8.54,ml,mørk grå,2.5Y 4/1
+LOOP6,P7,0,0.34,m,mørkbrun,10YR 2/2
+LOOP6,P7,0.34,0.8,ds,rødbrun,5YR 4/4
+LOOP6,P7,0.8,1.7,ds,gulbrun,10YR 5/6
+LOOP6,P7,1.7,2.5,ds,lys gulbrun,10YR 6/4
+LOOP6,P7,2.5,3.66,dg,mørk gulbrun,10YR 4/4
+LOOP6,P7,3.66,4.79,dg,mørkbrun,7.5YR 3/4
+LOOP6,P7,4.79,6.5,dg,mørk gråbrun,7.5YR 4/2
+LOOP6,P7,6.5,8.54,ds,lys gråbrun,10YR 6/3
