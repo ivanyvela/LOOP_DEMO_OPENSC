@@ -1,0 +1,28 @@
+Danish Color,English Equivalent,Raw Oxic Fraction,Depth Dependent?,Pox Definition / Logic,Munsell Code(s)
+lys grågul,Pale yellow,0.67,No,P_ox=1,"2.5Y 7/3, 2.5Y 7/4"
+sortbrun,Blackish brown,0,No,P_ox=0,"2.5Y 3/1, 7.5YR 2.5/2"
+brun,Brown,0.26,Yes,0.25 down to 50m; then 0,"10YR 2/2, 10YR 5/3, 10YR 6/3, 2.5Y 5/2, 7.5YR 3/4, 7.5YR 4/3, 7.5YR 4/4, 7.5YR 5/3"
+mørkbrun,Dark brown,0,No,P_ox=0,"10YR 2/2, 7.5YR 3/4, 7.5YR 4/4"
+mørk brun,Dark brown,0,No,P_ox=0,"10YR 2/2, 7.5YR 3/4, 7.5YR 4/4"
+mørk gråbrun,Dark grayish brown,0.04,Yes,Use Table 4 parameters,"10YR 3/2, 10YR 3/3, 10YR 4/2, 10YR 4/3, 2.5Y 3/2, 2.5Y 4/2, 7.5YR 4/2"
+gulbrun,Yellowish Brown,0.7,Yes,0.3 down to 45m; then 0,"10YR 5/4, 10YR 5/6, 10YR 5/8"
+lys gulbrun,Light yellowish brown,0.77,Yes,Use Table 4 parameters,"10YR 6/4, 2.5Y 6/3, 2.5Y 6/4"
+mørk gulbrun,Dark yellowish brown,0.6,No,P_ox=1,"10YR 3/4, 10YR 4/4, 10YR 4/6"
+lys gråbrun,Pale brown,0.26,Yes,Use Table 4 parameters,"10YR 6/3, 10YR 7/3, 10YR 7/4"
+gråbrun,Grayish brown,0.11,Yes,Use Table 4 parameters,"10YR 3/3, 10YR 5/2, 10YR 6/3, 2.5Y 5/2"
+rødbrun,Reddish brown,1,No,P_ox=1,5YR 4/4
+lys olivenbrun,Light olive brown,0.46,Yes,0.45 down to 20m; then 0,"2.5Y 5/3, 2.5Y 5/4, 2.5Y 5/6, 5Y 5/4"
+olivenbrun,Olive brown,0.37,Yes,0.35 down to 20m; then 0,2.5Y 4/3
+grå,Gray,0.05,Yes,P_ox=0.06,"10YR 3/1, 10YR 5/1, 10YR 6/1, 2.5Y 5/1, 2.5Y 6/1, 5/1, 5Y 3/2, 5Y 4/2, 5Y 5/1, 5Y 5/2, 5Y 6/1, 7.5YR 5/1"
+mørk grøngrå,Dark greenish gray,0,No,P_ox=0,GLEY1 4/1
+mørk olivengrå,Dark greenish gray,0,No,P_ox=0,5Y 3/2
+olivengrå,Olive gray,0.04,No,P_ox=0,5Y 4/2
+oliven grå,Olive gray,0.04,No,P_ox=0,5Y 4/2
+mørk grå,Dark gray,0.03,No,P_ox=0,"10YR 4/1, 2.5Y 4/1, 5Y 4/1"
+lys brungrå,Light brownish gray,0.14,Yes,Use Table 4 parameters,"10YR 6/2, 10YR 7/2"
+lys gulgrå,Light yellowish gray,0.37,No,P_ox=0.35,2.5Y 7/2
+lys grå,Light gray,0.07,No,P_ox=0,10YR 7/1
+sort grå,Blackish gray,-,No,P_ox=0,10YR 3/1
+sortgrå,Blackish gray,-,No,P_ox=0,10YR 3/1
+sort,Black,0,No,P_ox=0,10YR 2/1
+lys brunsort,Light brownish black,0.33,No,P_ox=0,2.5Y 6/2

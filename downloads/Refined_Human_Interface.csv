@@ -1,0 +1,111 @@
+Source_File,ID,Electrode,Human_Interface_2025,Human_Interface_2025_Separated,Human_Interface_2026_1,Human_Interface_2026_2
+LOOP2\Punkt 1a_20200401_141828_REMax.csv,1a,Pt,11,11,7.5,11
+LOOP2\Punkt 1a_20200917_152427_REMax.csv,1a,Pt,11,not stable,9,12.2
+LOOP2\Punkt 1b_20200401_145544_REMax.csv,1b,Pt,11,11,7.5,11
+LOOP2\Punkt 1b_20200921_103233_REMax.csv,1b,Pt,11,9.7,7.2,9.8
+LOOP2\Punkt 1c_20200921_113647_REMax.csv,1c,Pt,11,9.7,7.4,9.8
+LOOP2\Punkt 2Aa_20200401_102341_REMax.csv,2Aa,Pt,3,3.6,1.4,3.5
+LOOP2\Punkt 2Ab_20200401_110039_REMax.csv,2Ab,Pt,3,3.6,1.4,3.5
+LOOP2\Punkt 2a_20200401_125523_REMax.csv,2a,Pt,3,6,3.7,6
+LOOP2\Punkt 2a_20200917_124950_REMax.csv,2a,Pt,3,3.7,2.6,3.7
+LOOP2\Punkt 2b_20200401_131651_REMax.csv,2b,Pt,3,6,3.7,5.7
+LOOP2\Punkt 2b_20200917_132525_REMax.csv,2b,Pt,3,3.7,2.5,3.6
+LOOP2\Punkt 2c_20200401_134130_REMax.csv,2c,Pt,3,6,3.7,6.2
+LOOP2\Punkt 2c_20200917_135827_REMax.csv,2c,Pt,3,3.7,2.6,3.7
+LOOP2\Punkt 3a_20200401_091814_REMax.csv,3a,Pt,2.7,5.5,2.6,5.5
+LOOP2\Punkt 3a_20200917_101432_REMax.csv,3a,Pt,2.7,2.7,1.9,
+LOOP2\Punkt 3b_20200401_094516_REMax.csv,3b,Pt,2.7,5,2.5,5.3
+LOOP2\Punkt 3b_20200917_105908_REMax.csv,3b,Pt,2.7,2.7,2.6,
+LOOP2\Punkt 4a_20200401_161530_REMax.csv,4a,Pt,11.5,11,7.5,11
+LOOP2\Punkt 4a_20200921_140355_REMax.csv,4a,Pt,11.5,16,15.8,
+LOOP2\Punkt 4b_20200401_165126_REMax.csv,4b,Pt,11.5,11,7.5,11
+LOOP2\Punkt 4b_20200921_150251_REMax.csv,4b,Pt,11.5,16,15.8,
+LOOP3\Point 1a_20201111_093642_RE1Max.csv,1a,Pt1,5.5,5.5,3.2,8
+LOOP3\Point 1a_20201111_093642_RE2Max.csv,1a,Pt2,5.5,5.5,3.2,8
+LOOP3\Point 1b_20201111_134819_RE1Max.csv,1b,Pt1,5.5,5.5,3.2,8
+LOOP3\Point 1b_20201111_134819_RE2Max.csv,1b,Pt2,6.8,7,3.2,8
+LOOP3\Point 2a_20201112_092228_RE1Max.csv,2a,Pt1,4.5,4.5,4.5,8
+LOOP3\Point 2a_20201112_092228_RE2Max.csv,2a,Pt2,4.5,4.5,4.5,8
+LOOP3\Point 2b_20201112_103641_RE1Max.csv,2b,Pt1,4.5,3.2,3.2,8
+LOOP3\Point 2b_20201112_103641_RE2Max.csv,2b,Pt2,4.5,4.5,4.5,8
+LOOP3\Point 3a_20201112_145354_REMax.csv,3a,Pt,5,4.2,1.8,4.2
+LOOP3\Point 3b_20201113_085747_REMax.csv,3b,Pt,5,5,4.5,
+LOOP3\Point 5a_20201113_110844_REMax.csv,5a,Pt,6,6,5.8,
+LOOP3\Point 5b_20201202_094608_RE1Max.csv,5b,Pt1,6,6,6.5,
+LOOP3\Point 5b_20201202_094608_RE3Max.csv,5b,Pt2,6,6,6.2,
+LOOP3\Point 6a_20201202_122111_RE1Max.csv,6a,Pt1,5,5,4.5,
+LOOP3\Point 6a_20201202_122111_RE3Max.csv,6a,Pt2,5,5,4.5,
+LOOP3\Point 6b_20201202_132424_RE1Max.csv,6b,Pt1,5,3.8,4,
+LOOP3\Point 6b_20201202_132424_RE3Max.csv,6b,Pt2,5,3.8,4,
+LOOP4\Geological Window-1a_20210309_120058_RE1Max.csv,Geological Window-1a,Pt1,no geochemistry,no geochemistry,no geochemistry,no geochemistry
+LOOP4\Geological Window-1a_20210309_120058_RE3Max.csv,Geological Window-1a,Pt2,no geochemistry,no geochemistry,no geochemistry,no geochemistry
+LOOP4\Geological Window-1b_20210309_122224_RE1Max.csv,Geological Window-1b,Pt1,no geochemistry,no geochemistry,no geochemistry,no geochemistry
+LOOP4\Geological Window-1b_20210309_122224_RE3Max.csv,Geological Window-1b,Pt2,no geochemistry,no geochemistry,no geochemistry,no geochemistry
+LOOP4\Geological Window-2a_20210309_103918_RE1Max.csv,Geological Window-2a,Pt1,5.5,5.6,4.3,5.6
+LOOP4\Geological Window-2b_20210309_111339_RE1Max.csv,Geological Window-2b,Pt1,5.5,5.2,4.3,5.2
+LOOP4\Geological Window-3a_20210309_092705_RE1Max.csv,Geological Window-3a,Pt1,no geochemistry,no geochemistry,no geochemistry,no geochemistry
+LOOP4\Geological Window-3a_20210309_092705_RE3Max.csv,Geological Window-3a,Pt2,no geochemistry,no geochemistry,no geochemistry,no geochemistry
+LOOP4\Geological Window-3b_20210309_095714_RE1Max.csv,Geological Window-3b,Pt1,no geochemistry,no geochemistry,no geochemistry,no geochemistry
+LOOP4\Geological Window-3b_20210309_095714_RE3Max.csv,Geological Window-3b,Pt2,no geochemistry,no geochemistry,no geochemistry,no geochemistry
+LOOP4\Til layer-1a_20210309_141356_RE1Max.csv,Til layer-1a,Pt1,6.8,5.7,3.2,5.7
+LOOP4\Til layer-1a_20210309_141356_RE3Max.csv,Til layer-1a,Pt2,6.8,5.7,5.7,
+LOOP4\Til layer-1b_20210309_144545_RE1Max.csv,Til layer-1b,Pt1,6.8,6.7,3.1,6.7
+LOOP4\Til layer-1b_20210309_144545_RE3Max.csv,Til layer-1b,Pt2,6.8,6.7,3.1,6.7
+LOOP4\Til layer-2a_20210309_154623_RE1Max.csv,Til layer-2a,Pt1,3.5,3.2,2,4.3
+LOOP4\Til layer-2a_20210309_154623_RE3Max.csv,Til layer-2a,Pt2,3.5,3.2,2,4.3
+LOOP4\Til layer-2b_20210309_160924_RE1Max.csv,Til layer-2b,Pt,3.5,3.2,3.2,
+LOOP4\interglacial sand-1a_20210310_094702_RE1Max.csv,interglacial sand-1a,Pt1,not stable,not stable,4.2,
+LOOP4\interglacial sand-1a_20210310_094702_RE3Max.csv,interglacial sand-1a,Pt2,not stable,not stable,,
+LOOP4\interglacial sand-1b_20210310_102419_RE1Max.csv,interglacial sand-1b,Pt1,not stable,not stable,4.2,
+LOOP4\interglacial sand-1b_20210310_102419_RE3Max.csv,interglacial sand-1b,Pt2,not stable,not stable,4.2,
+LOOP4\interglacial sand-2a_20210310_085855_RE1Max.csv,interglacial sand-2a,Pt1,4.2,4.2,3,5.7
+LOOP4\interglacial sand-2a_20210310_085855_RE3Max.csv,interglacial sand-2a,Pt2,4.2,4.2,3,5.7
+LOOP4\interglacial sand-2b_20210310_091821_RE1Max.csv,interglacial sand-2b,Pt1,4.2,3.2,3.2,
+LOOP4\interglacial sand-2b_20210310_091821_RE3Max.csv,interglacial sand-2b,Pt2,4.2,3.3,3.3,
+LOOP4\meltwater sand-1a_20210310_125813_RE1Max.csv,meltwater sand-1a,Pt1,5.5,5.5,5.5,
+LOOP4\meltwater sand-1a_20210310_125813_RE3Max.csv,meltwater sand-1a,Pt2,5.5,5.5,5.5,
+LOOP4\meltwater sand-1b_20210310_132147_RE1Max.csv,meltwater sand-1b,Pt1,5.5,5.5,5.5,
+LOOP4\meltwater sand-1b_20210310_132147_RE3Max.csv,meltwater sand-1b,Pt2,5.5,5.5,5.5,
+LOOP4\meltwater sand-2a_20210310_113910_RE1Max.csv,meltwater sand-2a,Pt1,5.5,5.5,5.5,
+LOOP4\meltwater sand-2a_20210310_113910_RE3Max.csv,meltwater sand-2a,Pt2,5.5,5.5,5.5,
+LOOP4\meltwater sand-2b_20210310_121214_RE1Max.csv,meltwater sand-2b,Pt1,5.5,5.5,5.5,
+LOOP4\meltwater sand-2b_20210310_121214_RE3Max.csv,meltwater sand-2b,Pt2,5.5,5.5,5.5,
+LOOP6\P1a_20210224_094034_RE1Max.csv,1a,Pt1,4.8,4.8,3.3,8.2
+LOOP6\P1a_20210224_094034_RE3Max.csv,1a,Pt2,4.8,4.8,8.2,
+LOOP6\P1b_20210224_102251_RE1Max.csv,1b,Pt1,4.8,4.8,3.2,8.2
+LOOP6\P1b_20210224_102251_RE3Max.csv,1b,Pt2,4.8,4.8,8.2,
+LOOP6\P2Aa_20210224_143417_RE1Max.csv,2Aa,Pt1,,2,2,
+LOOP6\P2Aa_20210224_143417_RE3Max.csv,2Aa,Pt2,,2,2,
+LOOP6\P2Ab_20210224_153109_RE1Max.csv,2Ab,Pt1,,2,2,
+LOOP6\P2Ab_20210224_153109_RE3Max.csv,2Ab,Pt2,,2,2,
+LOOP6\P2a_20210224_124253_RE1Max.csv,2a,Pt1,3,3,3,
+LOOP6\P2a_20210224_124253_RE3Max.csv,2a,Pt2,3,3,3,
+LOOP6\P2b_20210224_132359_RE1Max.csv,2b,Pt1,3,3,3,
+LOOP6\P2b_20210224_132359_RE3Max.csv,2b,Pt2,3,3,3,
+LOOP6\P3a_20210225_084413_RE1Max.csv,3a,Pt1,9,9,9,
+LOOP6\P3a_20210225_084413_RE3Max.csv,3a,Pt2,9,9,9,
+LOOP6\P3b_20210225_091435_RE1Max.csv,3b,Pt1,9,9,9,
+LOOP6\P3b_20210225_091435_RE3Max.csv,3b,Pt2,9,9,9,
+LOOP6\P4a_20210225_110856_RE1Max.csv,4a,Pt1,not stable,not stable,,
+LOOP6\P4a_20210225_110856_RE3Max.csv,4a,Pt2,not stable,not stable,,
+LOOP6\P4b_20210225_113108_RE1Max.csv,4b,Pt1,not stable,not stable,,
+LOOP6\P4b_20210225_113108_RE3Max.csv,4b,Pt2,not stable,not stable,,
+LOOP6\P5a_20210225_125207_RE1Max.csv,5a,Pt1,7.5,7.5,7.5,
+LOOP6\P5a_20210225_125207_RE3Max.csv,5a,Pt2,7.5,7.5,7.5,
+LOOP6\P5b_20210225_142649_RE1Max.csv,5b,Pt1,7.5,8,8,
+LOOP6\P5b_20210225_142649_RE3Max.csv,5b,Pt2,7.5,8,8,
+LOOP6\P6a_20210225_154355_RE1Max.csv,6a,Pt1,7,5.7,5.7,
+LOOP6\P6a_20210225_154355_RE3Max.csv,6a,Pt2,7,6.2,6.2,
+LOOP6\P6b_20210225_161303_RE1Max.csv,6b,Pt1,7,7,7,
+LOOP6\P6b_20210225_161303_RE3Max.csv,6b,Pt2,7,7,7,
+LOOP6\P7a_20210303_111839_RE3Max.csv,7a,Pt,7.5,6,6,
+LOOP6\P7b_20210303_125049_RE1Max.csv,7b,Pt1,7.5,6,6,
+LOOP6\P7b_20210303_125049_RE3Max.csv,7b,Pt2,7.5,6.8,6.8,
+DEMO\Point 6a_20211014_103612_RE1Max.csv,6a,Pt1,7.8,7.8,7.8,
+DEMO\Point 6a_20211014_103612_RE3Max.csv,6a,Pt2,7.8,7.8,7.8,
+DEMO\Point 6b_20211014_113215_RE1Max.csv,6b,Pt1,7.8,7.8,7.8,
+DEMO\Point 6b_20211014_113215_RE3Max.csv,6b,Pt2,7.8,7.8,7.8,
+DEMO\Point 7a_20211014_131945_RE1Max.csv,7a,Pt1,8.3,8.3,8.3,
+DEMO\Point 7a_20211014_131945_RE3Max.csv,7a,Pt2,8.3,8.3,8.3,
+DEMO\Point 7b_20211014_123344_RE1Max.csv,7b,Pt1,8.3,8.3,8.3,
+DEMO\Point 7b_20211014_123344_RE3Max.csv,7b,Pt2,8.3,8.3,8.3,
