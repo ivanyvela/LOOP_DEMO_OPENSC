@@ -15,6 +15,7 @@ import {
   X,
   Maximize2
 } from 'lucide-react';
+import { getAssetPath } from '../../../utils/assets';
 
 type SubSection = 'probe' | 'data' | 'algorithm' | 'color' | 'geus';
 
@@ -98,7 +99,7 @@ const Method: React.FC = () => {
                 ].map((file) => (
                   <a 
                     key={file.filename} 
-                    href={`/downloads/${file.filename}`}
+                    href={getAssetPath(`/downloads/${file.filename}`)}
                     download
                     className="flex items-center justify-between p-4 bg-slate-50 rounded-xl border border-slate-100 hover:border-action-blue hover:bg-white transition-all group"
                   >
@@ -114,7 +115,7 @@ const Method: React.FC = () => {
                   {['DEMO', 'LOOP2', 'LOOP3', 'LOOP4', 'LOOP6'].map(site => (
                     <a 
                       key={site} 
-                      href={`/downloads/GEUS_Geochemistry_${site}.pdf`}
+                      href={getAssetPath(`/downloads/GEUS_Geochemistry_${site}.pdf`)}
                       download
                       className="px-4 py-2 bg-white border border-slate-200 rounded-lg text-sm font-bold text-slate-600 flex items-center gap-2 hover:bg-slate-50 transition-all shadow-sm"
                     >
@@ -220,7 +221,7 @@ const Method: React.FC = () => {
                    <div className="w-full bg-slate-50 rounded-3xl border border-slate-200 p-8 shadow-sm">
                     <h5 className="font-mono text-xs text-slate-400 mb-4 uppercase tracking-widest text-center">Output: 2026_Interface_Detection.ipynb (Example 1)</h5>
                     <img 
-                      src="/plots/nitrate_profiles.png" 
+                      src={getAssetPath('/plots/nitrate_profiles.png')} 
                       className="w-full rounded-2xl shadow-lg border border-white"
                       alt="Algorithm Visualization"
                     />
@@ -282,7 +283,7 @@ const Method: React.FC = () => {
                         <p className="text-slate-400 text-sm italic">{plot.desc}</p>
                       </div>
                       <div className="bg-white rounded-3xl overflow-hidden shadow-2xl border border-slate-100 p-2">
-                        <img src={plot.src} className="w-full rounded-2xl" alt={plot.site} />
+                        <img src={getAssetPath(plot.src)} className="w-full rounded-2xl" alt={plot.site} />
                       </div>
                     </div>
                   ))}
@@ -352,7 +353,7 @@ const Method: React.FC = () => {
                     </div>
                   </div>
                   <img 
-                    src="/2026_Color_FRI_Algorithm_Flowchart.png" 
+                    src={getAssetPath('/2026_Color_FRI_Algorithm_Flowchart.png')} 
                     alt="Color FRI Algorithm Flowchart" 
                     className="w-full h-full object-contain p-4"
                   />
@@ -479,7 +480,7 @@ const Method: React.FC = () => {
               initial={{ scale: 0.9 }}
               animate={{ scale: 1 }}
               exit={{ scale: 0.9 }}
-              src="/2026_Color_FRI_Algorithm_Flowchart.png" 
+              src={getAssetPath('/2026_Color_FRI_Algorithm_Flowchart.png')} 
               className="max-w-full max-h-full object-contain shadow-2xl rounded-lg"
               alt="Color FRI Algorithm Flowchart Full Screen"
             />

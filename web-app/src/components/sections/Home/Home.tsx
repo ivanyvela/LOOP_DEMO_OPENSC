@@ -1,4 +1,5 @@
 import React from 'react';
+import { getAssetPath } from '../../../utils/assets';
 
 const Home: React.FC = () => {
   return (
@@ -12,7 +13,7 @@ const Home: React.FC = () => {
       
       <div className="relative mx-auto w-full max-w-6xl aspect-[1.1/1] bg-slate-900 rounded-3xl shadow-2xl overflow-hidden border-8 border-white">
         <img 
-          src="/map-example.png" 
+          src={getAssetPath('/map-example.png')} 
           alt="Research Map of Denmark" 
           className="absolute inset-0 w-full h-full object-cover"
         />

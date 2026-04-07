@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Sliders, Info } from 'lucide-react';
+import { getAssetPath } from '../../../utils/assets';
 
 const NitrateReduction: React.FC = () => {
   // Simplified Parameter State
@@ -119,7 +120,7 @@ const NitrateReduction: React.FC = () => {
       <section className="space-y-12">
         <div className="w-full">
           <img 
-            src={`/plots/nitrate_success_rates_${imageSuffix}.png`} 
+            src={getAssetPath(`/plots/nitrate_success_rates_${imageSuffix}.png`)} 
             alt={`Success Rates for ${interfaceType}`} 
             className="w-full h-auto rounded-3xl shadow-sm border border-slate-100 transition-opacity duration-300" 
             onError={(e) => (e.currentTarget.style.opacity = '0.5')}
@@ -128,7 +129,7 @@ const NitrateReduction: React.FC = () => {
         </div>
         <div className="w-full">
           <img 
-            src={`/plots/nitrate_validation_matrix_${imageSuffix}.png`} 
+            src={getAssetPath(`/plots/nitrate_validation_matrix_${imageSuffix}.png`)} 
             alt={`Validation Matrix for ${interfaceType}`} 
             className="w-full h-auto rounded-3xl shadow-sm border border-slate-100 transition-opacity duration-300"
             onError={(e) => (e.currentTarget.style.opacity = '0.5')}
@@ -137,7 +138,7 @@ const NitrateReduction: React.FC = () => {
         </div>
         <div className="w-full bg-white rounded-3xl shadow-sm border border-slate-100 p-6">
           <img 
-            src={`/plots/nitrate_profiles_${imageSuffix}.png`} 
+            src={getAssetPath(`/plots/nitrate_profiles_${imageSuffix}.png`)} 
             alt={`Nitrate Profiles for ${interfaceType}`} 
             className="w-full h-auto rounded-xl transition-opacity duration-300" 
             onError={(e) => (e.currentTarget.style.opacity = '0.5')}
