@@ -58,3 +58,4 @@ This project is an open science website hosting research results for "Redox Prob
 3. **Data Pre-processor**:
    - Convert large CSVs in `Python_Redox_Geochemistry` into optimized JSON files for web consumption.
    - Store results in `web-app/src/data/`.
+\n## Mobile Responsiveness\n- **Graphics & Plots**: All matplotlib generated plots included in the webpage must use responsive classes (e.g. `w-full max-w-full h-auto`) to ensure they do not overflow on mobile screens. We also wrap math blocks in `overflow-x-auto` so long equations do not break the layout.

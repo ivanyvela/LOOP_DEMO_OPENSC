@@ -10,12 +10,16 @@ import {
   Info,
   Palette,
   Map as MapIcon,
-  TrendingUp,
   Wrench,
   X,
   Maximize2
 } from 'lucide-react';
 import { getAssetPath } from '../../../utils/assets';
+import ReactMarkdown from 'react-markdown';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+import 'katex/dist/katex.min.css';
+import { algorithmMarkdown } from '../../../data/algorithmMarkdown';
 
 type SubSection = 'probe' | 'data' | 'algorithm' | 'color' | 'geus';
 
@@ -137,164 +141,56 @@ const Method: React.FC = () => {
             exit={{ opacity: 0, x: -20 }}
             className="space-y-12"
           >
-            {/* Methodology Content from 2026_Interface_Detection.ipynb */}
-            <div className="bg-white p-10 rounded-3xl shadow-xl border border-slate-100 space-y-12">
-              <div className="space-y-6">
-                <h3 className="text-3xl font-black text-slate-800 flex items-center gap-3 border-b border-slate-100 pb-4">
-                  <Cpu className="text-action-blue" size={32} />
-                  High-Resolution Subsurface Redox Interface Detection Algorithm (2026)
-                </h3>
-                
-                <div className="prose prose-slate max-w-none text-slate-600 leading-relaxed space-y-8">
-                  <section className="space-y-4">
-                    <h4 className="text-xl font-bold text-slate-800 flex items-center gap-2">
-                      <div className="w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center text-xs">1</div>
-                      Pre-processing and Calibration
-                    </h4>
-                    <p>
-                      The raw redox measurements ($E_{"{"}raw{"}"}$) are converted to the standard hydrogen electrode (SHE) scale ($E_H$) using a temperature-compensated calibration shift of +225 mV:
-                      <span className="block font-mono bg-slate-900 text-emerald-400 p-4 rounded-xl mt-4 shadow-inner">EH = E_raw + 225</span>
-                    </p>
-                  </section>
-                  
-                  <section className="space-y-4">
-                    <h4 className="text-xl font-bold text-slate-800 flex items-center gap-2">
-                      <div className="w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center text-xs">2</div>
-                      Resolution-Adaptive Smoothing
-                    </h4>
-                    <p>
-                      To isolate the true geochemical gradient from mechanical insertion noise, the algorithm dynamically calculates a smoothing window ($W_s$) based on average depth step ($\Delta z_{"{"}avg{"}"}$), targeting a ~0.5m interval:
-                      <span className="block font-mono bg-slate-900 text-emerald-400 p-4 rounded-xl mt-4 shadow-inner">W_s = max(3, floor(0.5 / Δz_avg))</span>
-                    </p>
-                  </section>
-
-                  <section className="space-y-4">
-                    <h4 className="text-xl font-bold text-slate-800 flex items-center gap-2">
-                      <div className="w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center text-xs">3</div>
-                      Gradient Calculation (The "Drop")
-                    </h4>
-                    <p>
-                      Discrete spatial derivatives are calculated over a 1.5m window. Potential interface candidates are flagged where the "Drop" magnitude exceeds $T_{"{"}drop{"}"} = 150$ {"mV"}.
-                    </p>
-                  </section>
-
-                  <section className="space-y-4">
-                    <h4 className="text-xl font-bold text-slate-800 flex items-center gap-2">
-                      <div className="w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center text-xs">4</div>
-                      Stability Verification & Proximity Filtering
-                    </h4>
-                    <p>
-                      If multiple peaks occur within 1.4m, only the largest magnitude drop is retained. The algorithm identifies the largest contiguous "Stable Reduced Stretch" satisfying:
-                    </p>
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 not-prose">
-                      <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
-                        <span className="block font-black text-slate-800 text-xs uppercase mb-1">Reduced State</span>
-                        <span className="text-slate-600">$E_{"{"}smooth{"}"} &lt; 100$ {"mV"}</span>
-                      </div>
-                      <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
-                        <span className="block font-black text-slate-800 text-xs uppercase mb-1">Stability</span>
-                        <span className="text-slate-600">$|\Delta E| &lt; 75$ {"mV"}</span>
-                      </div>
-                    </div>
-                  </section>
-
-                  <section className="space-y-4">
-                    <h4 className="text-xl font-bold text-slate-800 flex items-center gap-2">
-                      <div className="w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center text-xs">5</div>
-                      Primary Interface ($Auto_1$)
-                    </h4>
-                    <p>
-                      The primary interface is declared where the EH first drops below 50 mV, descending from the gradient peak to strictly bound the reduced zone.
-                    </p>
-                  </section>
-                </div>
+            <div className="bg-white p-4 md:p-10 rounded-3xl shadow-xl border border-slate-100 space-y-12">
+              <div className="prose prose-slate max-w-none text-slate-800 leading-relaxed overflow-x-auto">
+                <ReactMarkdown
+                  remarkPlugins={[remarkMath]}
+                  rehypePlugins={[rehypeKatex]}
+                >
+                  {algorithmMarkdown}
+                </ReactMarkdown>
               </div>
 
-              {/* Visualization Placeholder */}
-              <div className="space-y-8">
-                <div className="text-center">
-                  <h4 className="text-2xl font-black text-slate-800">Example Visualization</h4>
-                  <p className="text-slate-500 italic">Demonstrating the algorithm logic on representative logs.</p>
-                </div>
-                
-                <div className="space-y-12">
-                   <div className="w-full bg-slate-50 rounded-3xl border border-slate-200 p-8 shadow-sm">
-                    <h5 className="font-mono text-xs text-slate-400 mb-4 uppercase tracking-widest text-center">Output: 2026_Interface_Detection.ipynb (Example 1)</h5>
-                    <img 
-                      src={getAssetPath('/plots/nitrate_profiles.png')} 
-                      className="w-full rounded-2xl shadow-lg border border-white"
-                      alt="Algorithm Visualization"
-                    />
-                  </div>
-                </div>
-              </div>
-
-              {/* Segmented Logic Addition */}
-              <div className="bg-slate-900 rounded-[3rem] p-12 text-white relative overflow-hidden shadow-2xl">
-                <div className="absolute top-0 right-0 p-8 opacity-5">
-                  <TrendingUp size={240} className="text-white" />
-                </div>
-                <div className="relative z-10 space-y-6">
-                  <h3 className="text-3xl font-black flex items-center gap-3">
-                    <TrendingUp className="text-emerald-400" size={32} />
-                    Piecewise Linear Representation
-                  </h3>
-                  <p className="text-slate-400 text-lg max-w-3xl leading-relaxed">
-                    Mimicking human identification by drawing straight lines through data segments. 
-                    This identifies the mathematical "bend" where geochemical shifts occur using Segmented Linear Regression.
-                  </p>
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
-                    <div className="bg-white/5 backdrop-blur-md p-8 rounded-3xl border border-white/10">
-                      <h5 className="font-bold text-emerald-400 mb-2">Breakpoint Detection</h5>
-                      <p className="text-sm text-slate-300">Identifies the exact knot ($z_{"{"}knot{"}"}$) where the slope transitions from stable oxidation to rapid reduction.</p>
-                    </div>
-                    <div className="bg-white/5 backdrop-blur-md p-8 rounded-3xl border border-white/10">
-                      <h5 className="font-bold text-amber-400 mb-2">RSS Minimization</h5>
-                      <p className="text-sm text-slate-300">Statistical optimization that balances fit accuracy with model simplicity (Occam's Razor).</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              {/* All Logs Section from Interfaces_Detection_All_Logs.ipynb */}
               <div className="space-y-12">
-                <div className="text-center space-y-4">
-                  <h3 className="text-4xl font-black text-slate-800">Comprehensive Interface Audit</h3>
-                  <p className="text-xl text-slate-500 max-w-2xl mx-auto italic">
-                    All logs from the dataset, processed with the refined calibrated logic.
-                  </p>
+                <div className="text-center border-b border-slate-100 pb-4">
+                  <h4 className="text-2xl md:text-3xl font-black text-slate-800">Human vs. Algorithmic Interface Depth (m)</h4>
                 </div>
+                <img src={getAssetPath('/plots/method/stats_main_0.png')} className="w-full max-w-full h-auto rounded-2xl shadow-lg border border-slate-200" alt="Stats Plot" />
+              </div>
 
-                <div className="flex flex-col gap-16">
-                  {[
-                    { site: 'DEMO 6a (Pt1)', src: '/plots/DEMO_D6.png', desc: 'Primary interface clearly bounding the deep reduced zone.' },
-                    { site: 'LOOP2 P1', src: '/plots/LOOP2_P1.png', desc: 'Complex log showing secondary redox fluctuations.' },
-                    { site: 'LOOP3 P1', src: '/plots/LOOP3_P1.png', desc: 'Stable stretch identification leading to Auto_1 declaration.' },
-                    { site: 'LOOP4 MS-1', src: '/plots/LOOP4_MS-1.png', desc: 'High-resolution gradient analysis in heterogeneous sediment.' },
-                  ].map((plot) => (
-                    <div key={plot.site} className="space-y-6">
-                      <div className="flex items-center justify-between border-b border-slate-100 pb-4">
-                        <div className="flex items-center gap-4">
-                          <div className="bg-action-blue text-white px-4 py-1 rounded-full text-xs font-black uppercase tracking-widest">
-                            Log Audit
-                          </div>
-                          <h5 className="text-2xl font-black text-slate-800">{plot.site}</h5>
-                        </div>
-                        <p className="text-slate-400 text-sm italic">{plot.desc}</p>
-                      </div>
-                      <div className="bg-white rounded-3xl overflow-hidden shadow-2xl border border-slate-100 p-2">
-                        <img src={getAssetPath(plot.src)} className="w-full rounded-2xl" alt={plot.site} />
-                      </div>
-                    </div>
+              <div className="space-y-12">
+                <div className="text-center border-b border-slate-100 pb-4">
+                  <h4 className="text-2xl md:text-3xl font-black text-slate-800">--- LOGS WITH SINGLE INTERFACE (Primary Only) ---</h4>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                  {Array.from({ length: 6 }).map((_, i) => (
+                    <img key={`single_${i}`} src={getAssetPath(`/plots/method/single_interface_${i}.png`)} className="w-full max-w-full h-auto rounded-xl shadow-md border border-slate-200" alt={`Single Interface ${i+1}`} />
                   ))}
                 </div>
+              </div>
 
-                <div className="text-center pt-8">
-                  <button className="bg-slate-900 text-white px-12 py-5 rounded-2xl font-black tracking-[0.2em] hover:bg-slate-800 shadow-2xl transition-all uppercase">
-                    Load Full Repository (110+ Logs)
-                  </button>
+              <div className="space-y-12">
+                <div className="text-center border-b border-slate-100 pb-4">
+                  <h4 className="text-2xl md:text-3xl font-black text-slate-800">--- LOGS WITH DUAL INTERFACES (Primary and Secondary) ---</h4>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                  {Array.from({ length: 6 }).map((_, i) => (
+                    <img key={`dual_${i}`} src={getAssetPath(`/plots/method/dual_interface_${i}.png`)} className="w-full max-w-full h-auto rounded-xl shadow-md border border-slate-200" alt={`Dual Interface ${i+1}`} />
+                  ))}
                 </div>
               </div>
+
+              <div className="space-y-12">
+                <div className="text-center border-b border-slate-100 pb-4">
+                  <h4 className="text-2xl md:text-3xl font-black text-slate-800">Complete set of logs and Algorithmic vs Human interfaces</h4>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                  {Array.from({ length: 87 }).map((_, i) => (
+                    <img key={`all_${i}`} src={getAssetPath(`/plots/method/all_logs_final_${i}.png`)} className="w-full max-w-full h-auto rounded-xl shadow-sm border border-slate-100" alt={`All Logs ${i+1}`} />
+                  ))}
+                </div>
+              </div>
+
             </div>
           </motion.div>
         );
