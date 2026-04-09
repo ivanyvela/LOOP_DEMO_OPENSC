@@ -18,7 +18,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, onSectionChange }) => {
     <header className="bg-[#2c3e50] text-white shadow-md">
       <div className="container mx-auto px-4 py-6 text-center">
         <h1 className="text-3xl font-bold">Redox Probe ability to find FRI (First Redox Interface)</h1>
-        <h2 className="text-lg text-[#bdc3c7] mt-1">measuring electron activity directly underground</h2>
+        <h2 className="text-lg text-[#bdc3c7] mt-1">Geochemical evaluation against various FRI methods with a special focus on Nitrate</h2>
       </div>
       <nav className="bg-[#34495e] flex justify-center py-2 gap-4">
         {navItems.map((item) => (

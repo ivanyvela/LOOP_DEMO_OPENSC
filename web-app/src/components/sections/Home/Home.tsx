@@ -7,7 +7,7 @@ const Home: React.FC = () => {
       <header className="text-center space-y-4">
         <h1 className="text-5xl font-black text-slate-800 tracking-tight">Redox Probe Open Science Platform</h1>
         <p className="text-xl text-slate-500 max-w-2xl mx-auto italic">
-          measuring electron activity directly underground
+          Measuring electron activity directly underground
         </p>
       </header>
       
@@ -44,7 +44,7 @@ const Home: React.FC = () => {
           </div>
           <h3 className="text-xl font-black text-slate-800 mb-4">Collaborative Effort</h3>
           <p className="text-slate-500 text-sm leading-relaxed">
-            This platform facilitates a shared understanding between human geochemists and automated systems, refining our models for better groundwater protection.
+            This platform facilitates a shared understanding of the differences between the instrument determined FRI and the inferred FRI from other parameters
           </p>
         </div>
       </div>

@@ -1,6 +1,6 @@
 export const SITE_CONFIG = {
   title: 'Redox Probe ability to find FRI (First Redox Interface)',
-  subtitle: 'measuring electron activity directly underground',
+  subtitle: 'Geochemical evaluation against various FRI methods with a special focus on Nitrate',
   author: 'Ivan Yelamos',
   email: 'ivan.yelamos@gmail.com',
   githubRepo: 'ivanyelamos/LOOP_DEMO_OPENSC',
