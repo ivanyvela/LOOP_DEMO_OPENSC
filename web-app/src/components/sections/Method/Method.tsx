@@ -162,8 +162,8 @@ const Method: React.FC = () => {
                 <div className="text-center border-b border-slate-100 pb-4">
                   <h4 className="text-2xl md:text-3xl font-black text-slate-800">--- LOGS WITH SINGLE INTERFACE (Primary Only) ---</h4>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {Array.from({ length: 6 }).map((_, i) => (
+                <div className="flex flex-col gap-6">
+                  {Array.from({ length: 3 }).map((_, i) => (
                     <img key={`single_${i}`} src={getAssetPath(`/plots/method/single_interface_${i}.png`)} className="w-full max-w-full h-auto rounded-xl shadow-md border border-slate-200" alt={`Single Interface ${i+1}`} />
                   ))}
                 </div>
@@ -173,9 +173,9 @@ const Method: React.FC = () => {
                 <div className="text-center border-b border-slate-100 pb-4">
                   <h4 className="text-2xl md:text-3xl font-black text-slate-800">--- LOGS WITH DUAL INTERFACES (Primary and Secondary) ---</h4>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {Array.from({ length: 6 }).map((_, i) => (
-                    <img key={`dual_${i}`} src={getAssetPath(`/plots/method/dual_interface_${i}.png`)} className="w-full max-w-full h-auto rounded-xl shadow-md border border-slate-200" alt={`Dual Interface ${i+1}`} />
+                <div className="flex flex-col gap-6">
+                  {Array.from({ length: 3 }).map((_, i) => (
+                    <img key={`dual_${i}`} src={getAssetPath(`/plots/method/dual_interface_${i + 3}.png`)} className="w-full max-w-full h-auto rounded-xl shadow-md border border-slate-200" alt={`Dual Interface ${i+1}`} />
                   ))}
                 </div>
               </div>
@@ -184,7 +184,7 @@ const Method: React.FC = () => {
                 <div className="text-center border-b border-slate-100 pb-4">
                   <h4 className="text-2xl md:text-3xl font-black text-slate-800">Complete set of logs and Algorithmic vs Human interfaces</h4>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div className="flex flex-col gap-6">
                   {Array.from({ length: 87 }).map((_, i) => (
                     <img key={`all_${i}`} src={getAssetPath(`/plots/method/all_logs_final_${i}.png`)} className="w-full max-w-full h-auto rounded-xl shadow-sm border border-slate-100" alt={`All Logs ${i+1}`} />
                   ))}
@@ -241,8 +241,9 @@ const Method: React.FC = () => {
                   </div>
                 </div>
                 
-                <div className="bg-slate-100 rounded-3xl overflow-hidden border border-slate-200 aspect-square flex items-center justify-center relative group">
-                  <div className="absolute inset-0 bg-slate-900/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center z-10 cursor-pointer" onClick={() => setIsFlowchartOpen(true)}>
+                <div className="bg-slate-100 rounded-3xl overflow-hidden border border-slate-200 aspect-square flex flex-col items-center relative group p-4">
+                  <h4 className="font-black text-slate-800 text-lg md:text-xl z-20 mt-2 mb-2 text-center">How was Kim et al. 2025 replicated?</h4>
+                  <div className="absolute inset-0 bg-slate-900/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center z-30 cursor-pointer" onClick={() => setIsFlowchartOpen(true)}>
                     <div className="flex flex-col items-center gap-2 text-white">
                       <Maximize2 size={32} />
                       <span className="font-black uppercase tracking-[0.2em] text-sm">View Full Flowchart</span>
@@ -251,7 +252,7 @@ const Method: React.FC = () => {
                   <img 
                     src={getAssetPath('/2026_Color_FRI_Algorithm_Flowchart.png')} 
                     alt="Color FRI Algorithm Flowchart" 
-                    className="w-full h-full object-contain p-4"
+                    className="w-full h-full object-contain flex-1 min-h-0"
                   />
                 </div>
               </div>

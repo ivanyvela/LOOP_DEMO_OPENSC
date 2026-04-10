@@ -1,0 +1,45 @@
+Let us see how this would play out. Do you like the way I have instructed it, with text and by pointing at where the images are within \\wsl.localhost\Ubuntu\home\ivany\agentic_initiation\LOOP_DEMO_OPENSC\web-app\Welcome_Explanation, or at what must be done animated-wise, by placing it in brackets?, and is it future proofed, in terms of being able to surgically introduce future changes in it, without changing the main expression of whatever first version we might be satisfied with? 
+
+In the Welcome section, in the space right below the section menu, where we now there I see, once I load the page, "Redox Probe Open Science Platform" and below "Measuring electron activity directly underground" and below, a section of the picture PreProto_WebApp/map example.png,and in way where every user accessing the website will be able to see, without having to zoom, out, scroll down, or up, we show the following animation: 
+
+
+
+Welcome to the Redox Probe Open Science Platform
+
+Let us guide you through what this site is about. After years of development, we published a paper in 2025 [image 1]. 
+
+
+The paper shows that measuring soil redox continuously with depth was possible and electrochemically sound [image 2]
+
+
+This is done with the Redox Probe [image 3] 
+
+
+Which is pushed into the soil by a rig, thus rendering its redox signature [image 4]
+
+
+In this work, we manually identified three main sections: oxidized, transition, and reduced, and placed the redox boundary at where the transition and reduced zones meet [image 5]
+
+But in the publication, we did not compare any of the redox logs to the actual geology of the sites. This is what we are doing now, and we are starting by showing it on this site. In the Borehole Plots section [highlight Borehole Plots section within the page  or show somehow the Borehole Plots section] you can see a myriad of parameters corresponding to a single borehole [image 6]
+
+Specifically, we are highlighting the relation between the measured redox (Eh) by the probeand the nitrate concentration [image 7] 
+
+Specifically, we are highlighting the relation between the measured redox (Eh) by the probe and the nitrate concentration [image 8] 
+
+One important aspect of the plots is the placement of interfaces. How each of these interfaces has been determined can be read in detail in the Method section [highlight Method section within the page or show somehow the Method section]. First, let's take a look at the redox interface [image 9]
+
+This interface is no longer placed manually by a human, but automatically by a very simple algorithm that looks at where the biggest changes occur within a couple extra conditions [image 9_1]
+
+These algorithmic results are almost identical to the ones obtained in the 2025 redox paper [image 9_2]
+
+Then, we have the color interface [image 10]
+
+This interface has been determined by replicating a paper from GEUS scientist Hyojin Kim from 2025 [image 10_1]. 
+
+Which we replicated for the boreholes presented here [image 10_2]
+
+Then there is the GEUS FRI interface [image 11].
+
+This is the depth at which the Geological Survey of Denmark and Greenland (GEUS) has placed the boundary in the FRI map [image 11_1]. 
+
+Finally, you can see how good the different boundaries are at passing different nitrate reduction tests in the Nitrate Reduction Section. [highlight Nitrate Reduction section within the page or show somehow the Method section] [image 12]

@@ -1,23 +1,10 @@
 import React from 'react';
-import { getAssetPath } from '../../../utils/assets';
+import WelcomeAnimation from './WelcomeAnimation';
 
 const Home: React.FC = () => {
   return (
     <div className="space-y-12">
-      <header className="text-center space-y-4">
-        <h1 className="text-5xl font-black text-slate-800 tracking-tight">Redox Probe Open Science Platform</h1>
-        <p className="text-xl text-slate-500 max-w-2xl mx-auto italic">
-          Measuring electron activity directly underground
-        </p>
-      </header>
-      
-      <div className="relative mx-auto w-full max-w-6xl aspect-[1.1/1] bg-slate-900 rounded-3xl shadow-2xl overflow-hidden border-8 border-white">
-        <img 
-          src={getAssetPath('/map-example.png')} 
-          alt="Research Map of Denmark" 
-          className="absolute inset-0 w-full h-full object-cover"
-        />
-      </div>
+      <WelcomeAnimation />
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div className="bg-white p-8 rounded-3xl shadow-sm border border-slate-100 hover:shadow-lg transition-shadow">
@@ -31,7 +18,7 @@ const Home: React.FC = () => {
         </div>
         <div className="bg-white p-8 rounded-3xl shadow-sm border border-slate-100 hover:shadow-lg transition-shadow">
           <div className="w-12 h-12 bg-emerald-100 rounded-2xl flex items-center justify-center text-emerald-600 mb-6">
-             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
+             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012-2h-2a2 2 0 01-2-2z"></path></svg>
           </div>
           <h3 className="text-xl font-black text-slate-800 mb-4">Algorithmic Precision</h3>
           <p className="text-slate-500 text-sm leading-relaxed">
