@@ -6,6 +6,7 @@ import BoreholePlots from './components/sections/BoreholePlots/BoreholePlots';
 import NitrateReduction from './components/sections/NitrateReduction/NitrateReduction';
 import Method from './components/sections/Method/Method';
 import HistoryContact from './components/sections/HistoryContact/HistoryContact';
+import OtherGraphs from './components/sections/OtherGraphs/OtherGraphs';
 
 const App: React.FC = () => {
   const [activeSection, setActiveSection] = useState('home');
@@ -20,6 +21,8 @@ const App: React.FC = () => {
         return <NitrateReduction />;
       case 'method':
         return <Method />;
+      case 'other-graphs':
+        return <OtherGraphs />;
       case 'history-contact':
         return <HistoryContact />;
       default:

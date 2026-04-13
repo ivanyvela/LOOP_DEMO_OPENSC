@@ -11,6 +11,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, onSectionChange }) => {
     { id: 'borehole-plots', label: 'Borehole Plots' },
     { id: 'nitrate-reduction', label: 'Nitrate Reduction' },
     { id: 'method', label: 'Method' },
+    { id: 'other-graphs', label: 'Other Graphs' },
     { id: 'history-contact', label: 'History & Contact' },
   ];
 
